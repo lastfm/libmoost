@@ -1,0 +1,73 @@
+Source: lastfm-libmoost
+Section: unknown
+Priority: extra
+Maintainer: Mike Brodbelt <mike@last.fm>
+Build-Depends: debhelper (>=7), cmake, lastfm-python-mirbuild (>=0.2.31),
+               libthrift-dev, liblog4cxx10-dev, libboost-all-dev, libkyototycoon-dev,
+               libdb++-dev | libdb4.8++-dev, libtokyocabinet-dev, libsparsehash-dev (>=1.6),
+               libmcrypt-dev, bmagic, libgsl0-dev
+Standards-Version: 3.7.3
+
+Package: lastfm-libmoost-core-dev
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends},
+         libthrift-dev, liblog4cxx10-dev, libboost-all-dev, libkyototycoon-dev,
+         libdb++-dev | libdb4.8++-dev, libtokyocabinet-dev, libsparsehash-dev (>=1.6),
+         libmcrypt-dev, bmagic, libgsl0-dev, libevent-dev,
+         lastfm-libmoost-mlog-nsca (= ${binary:Version})
+Description: Header files and static library for the moost core library
+
+Package: lastfm-libmoost-configurable-dev
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends},
+         lastfm-libmoost-core-dev (= ${binary:Version})
+Description: Header files and static library for the moost configurable library
+
+Package: lastfm-libmoost-kvstore-dev
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends},
+         lastfm-libmoost-core-dev (= ${binary:Version})
+Description: Header files and static library for the moost key-value store library
+
+Package: lastfm-libmoost-mq-dev
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends},
+         lastfm-libmoost-core-dev (= ${binary:Version})
+Description: Header files and static library for the moost message queue library
+
+Package: lastfm-libmoost-pdl-dev
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Header files and static library for the moost portable dynamic loader library
+
+Package: lastfm-libmoost-signal-dev
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends},
+         lastfm-libmoost-core-dev (= ${binary:Version})
+Description: Header files and static library for the moost signal library
+
+Package: lastfm-libmoost-mlog-nsca
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Runtime libraries for moost
+ This package contains the nsca appender for the moost logging framework as
+ a shared library.
+
+Package: lastfm-libmoost-dev
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends},
+         lastfm-libmoost-core-dev (= ${binary:Version}),
+         lastfm-libmoost-configurable-dev (= ${binary:Version}),
+         lastfm-libmoost-kvstore-dev (= ${binary:Version}),
+         lastfm-libmoost-mq-dev (= ${binary:Version}),
+         lastfm-libmoost-pdl-dev (= ${binary:Version}),
+         lastfm-libmoost-signal-dev (= ${binary:Version})
+Description: Header files and static libs for moost
+ The moost library is a library of routines common to many Last.fm C++ projects.
+ This package provides header files and static libraries for moost, and is a build
+ dependency for most MIR projects.
+
+Package: lastfm-moost-mq-tools
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Tools for the moost message queue library
