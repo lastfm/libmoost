@@ -1,0 +1,15 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$nsca__config_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/nagios/detail/nsca_config.hpp" alt="" coords="983,83,1487,111"/>
+<area shape="rect" id="node27" href="$nsca__client_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/nagios/nsca_client.hpp" alt="" coords="1293,161,1755,189"/>
+<area shape="rect" id="node5" href="$nsca__appender_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/logging/nsca_appender.hpp" alt="" coords="779,161,1269,189"/>
+<area shape="rect" id="node7" href="$logging_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/logging.hpp" alt="" coords="829,238,1219,266"/>
+<area shape="rect" id="node25" href="$nsca__appender_8cpp.html" title="/home/mhx/git/github/libmoost/src/logging/nsca_appender.cpp" alt="" coords="1279,238,1697,266"/>
+<area shape="rect" id="node9" href="$scoped__logger_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/logging/scoped_logger.hpp" alt="" coords="20,315,505,343"/>
+<area shape="rect" id="node15" href="$service_2skeleton_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/service/skeleton.hpp" alt="" coords="529,315,975,343"/>
+<area shape="rect" id="node17" href="$safe__thread__default__policy_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/thread/detail/safe_thread_default_policy.hpp" alt="" coords="999,315,1596,343"/>
+<area shape="rect" id="node23" href="$stomp__client__impl_8cpp.html" title="/home/mhx/git/github/libmoost/src/mq/stomp_client_impl.cpp" alt="" coords="1620,315,2033,343"/>
+<area shape="rect" id="node11" href="$global__scoped__logger_8h.html" title="/home/mhx/git/github/libmoost/include/moost/logging/global_scoped_logger.h" alt="" coords="5,393,520,421"/>
+<area shape="rect" id="node13" href="$global__scoped__logger_8cpp.html" title="/home/mhx/git/github/libmoost/src/logging/global_scoped_logger.cpp" alt="" coords="33,470,492,498"/>
+<area shape="rect" id="node19" href="$safe__thread_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/thread/safe_thread.hpp" alt="" coords="808,393,1275,421"/>
+<area shape="rect" id="node21" href="$safe__thread__group_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/thread/safe_thread_group.hpp" alt="" coords="1299,393,1808,421"/>
+</map>

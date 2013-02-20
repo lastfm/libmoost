@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1kvds_1_1_kvds_page_store.html#ab577e91a78b68620c497021d3e843654" title="Overwrites existing values." alt="" coords="331,5,563,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1kvds_1_1_kvds_page_store.html#ac8eb62502f6389b0c8aebd926f96dd7b" title="moost::kvds::KvdsPageStore::get" alt="" coords="331,55,563,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1kvds_1_1_kvds_page_store.html#abdf83401d2d1dc4a013cc43860de743e" title="Appends to existing values." alt="" coords="329,106,564,134"/>
+<area shape="rect" id="node9" href="$classmoost_1_1kvds_1_1_kvds_page_store.html#a607d4e24d2dbb10d813c2de06ecfd84f" title="moost::kvds::KvdsPageStore::all" alt="" coords="333,157,560,185"/>
+<area shape="rect" id="node11" href="$classmoost_1_1kvds_1_1_kvds_page_store.html#a43f737c686321d91febb453395c63eb9" title="moost::kvds::KvdsPageStore::xst" alt="" coords="332,207,561,235"/>
+<area shape="rect" id="node13" href="$classmoost_1_1kvds_1_1_kvds_page_store.html#a3072c0767a1a333f30face4b403fea14" title="moost::kvds::KvdsPageStore::del" alt="" coords="332,258,561,286"/>
+<area shape="rect" id="node15" href="$classmoost_1_1kvds_1_1_kvds_page_store.html#a0bd3a76f9d62c67c18f424787bc8e758" title="moost::kvds::KvdsPageStore::siz" alt="" coords="332,309,561,337"/>
+</map>

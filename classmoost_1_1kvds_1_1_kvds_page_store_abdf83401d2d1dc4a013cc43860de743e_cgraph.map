@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1kvds_1_1_kvds_page_store.html#aceaf765017dd22e35fa48e5e18a18b15" title="moost::kvds::KvdsPageStore::get_store" alt="" coords="297,5,569,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1kvds_1_1_kvds_page_store.html#aaeeedb8c12fd54e7253d9f77ba93c7b3" title="moost::kvds::KvdsPageStore::get_storeid" alt="" coords="292,55,575,83"/>
+<area shape="rect" id="node7" href="$namespacemoost_1_1utils.html#a0f3a6e93d110470a3744201c91f27c37" title="moost::utils::next_power_of_two" alt="" coords="684,5,911,33"/>
+<area shape="rect" id="node9" href="$namespacemoost_1_1utils.html#a4b3bad1f648aedca1fa8b7cec8b2d11b" title="moost::utils::msb_set" alt="" coords="717,55,877,83"/>
+<area shape="rect" id="node11" href="$classmoost_1_1kvds_1_1_kvds_page_store.html#ae0e7d359e4bb73e239a7f08d07a345a7" title="moost::kvds::KvdsPageStore::trim_inventory_string" alt="" coords="624,106,971,134"/>
+</map>

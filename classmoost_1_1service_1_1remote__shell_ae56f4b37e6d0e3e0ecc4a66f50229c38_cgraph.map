@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1service_1_1remote__shell__server.html#a03bbaa29ace87d81a6be61533087f926" title="moost::service::remote_shell_server::stop" alt="" coords="296,30,587,58"/>
+<area shape="rect" id="node5" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#a9ffef4c6c97ea53c0f0097fd22f4c4bc" title="moost::service::remote_shell_server_impl::stop" alt="" coords="636,30,959,58"/>
+<area shape="rect" id="node7" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#a76b1fe0807221efb714f85515b260454" title="moost::service::remote_shell_server_impl::handle_stop" alt="" coords="1009,30,1383,58"/>
+<area shape="rect" id="node9" href="$classsession__base.html#ac7f78aa3774326579636576f9ed0ba21" title="session_base::stop" alt="" coords="1553,5,1697,33"/>
+<area shape="rect" id="node11" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#a3c1a7d829190f28d1b6cff223a5e84ec" title="moost::service::remote_shell_server_impl::pre_shutdown" alt="" coords="1433,55,1817,83"/>
+<area shape="rect" id="node13" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#a85e3e3bedc501afc9a7bcfe6a7353e16" title="moost::service::remote_shell_server_impl::teardown_stdio_snoopers" alt="" coords="1867,55,2325,83"/>
+</map>

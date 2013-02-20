@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1utils_1_1histogram.html#ad8eb34fe9d2824216fe90d36a2528a68" title="moost::utils::histogram::set_display_range" alt="" coords="280,5,573,33"/>
+<area shape="rect" id="node5" href="$namespacestd.html#a6309ea7d4a5977b39fecf89747491b6d" title="std::endl" alt="" coords="723,55,800,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1utils_1_1histogram.html#a4abce0fcb33b72729d8131f5b632f652" title="moost::utils::histogram::add" alt="" coords="325,106,528,134"/>
+<area shape="rect" id="node9" href="$classmoost_1_1utils_1_1histogram.html#ab77178b12c989748aa2e083dcb8b1ce4" title="moost::utils::histogram::draw" alt="" coords="323,157,531,185"/>
+<area shape="rect" id="node25" href="$classmoost_1_1utils_1_1histogram.html#aff749470d95831eb0a91d5f5387db168" title="moost::utils::histogram::mean" alt="" coords="320,233,533,261"/>
+<area shape="rect" id="node11" href="$classmoost_1_1utils_1_1histogram.html#a78050b8cbdea166a5579cfd117aefd9d" title="moost::utils::histogram::optimum_range" alt="" coords="621,157,901,185"/>
+<area shape="rect" id="node18" href="$classmoost_1_1utils_1_1histogram.html#a0f3194451be3d25342b79700a495820b" title="moost::utils::histogram::add_ticks" alt="" coords="643,106,880,134"/>
+<area shape="rect" id="node21" href="$classmoost_1_1utils_1_1histogram.html#a064dbdec3f80672e7e8201d09e7057a7" title="moost::utils::histogram::get_stats" alt="" coords="643,258,880,286"/>
+<area shape="rect" id="node23" href="$classmoost_1_1utils_1_1histogram.html#a4453468c0388198d72cd677b67a70e9c" title="moost::utils::histogram::stats2str" alt="" coords="644,207,879,235"/>
+<area shape="rect" id="node13" href="$classmoost_1_1utils_1_1histogram.html#a41ffa6fbc166e4511b11dadba39c5acd" title="moost::utils::histogram::nicenum" alt="" coords="969,106,1201,134"/>
+<area shape="rect" id="node15" href="$classmoost_1_1utils_1_1histogram.html#ac6c91be6639c0f9d5c4eda245186630c" title="moost::utils::histogram::nice_bin_width" alt="" coords="951,157,1220,185"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1kvstore_1_1_mock_kyoto_tycoon_connection.html#ae9c3d19ec1711564a89e90784e2793e4" title="moost::kvstore::MockKyotoTycoonConnection::open" alt="" coords="421,5,771,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1kvstore_1_1_mock_kyoto_tycoon_connection.html#a0258cd469f0c49246b116dcdc22cda42" title="moost::kvstore::MockKyotoTycoonConnection::get" alt="" coords="427,55,765,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1kvstore_1_1_mock_kyoto_tycoon_connection.html#a25f38e483b27ed65f338d4f9939cc812" title="moost::kvstore::MockKyotoTycoonConnection::set" alt="" coords="428,106,764,134"/>
+<area shape="rect" id="node9" href="$classmoost_1_1kvstore_1_1_mock_kyoto_tycoon_connection.html#a1b1642eaca06e1043b04e6ee07adc990" title="moost::kvstore::MockKyotoTycoonConnection::cache" alt="" coords="419,157,773,185"/>
+<area shape="rect" id="node11" href="$classmoost_1_1kvstore_1_1_mock_kyoto_tycoon_connection_1_1_store.html#a21b77ff530e595dd906b61c09b851aa4" title="moost::kvstore::MockKyotoTycoonConnection::Store::get" alt="" coords="405,207,787,235"/>
+</map>

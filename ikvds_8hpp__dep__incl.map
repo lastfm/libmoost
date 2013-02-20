@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$kvds__bdb__linux_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvds/detail/kvds_bdb_linux.hpp" alt="" coords="819,83,1331,111"/>
+<area shape="rect" id="node13" href="$kvds__kch__linux_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvds/detail/kvds_kch_linux.hpp" alt="" coords="72,83,581,111"/>
+<area shape="rect" id="node18" href="$kvds__tch__linux_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvds/detail/kvds_tch_linux.hpp" alt="" coords="1024,161,1531,189"/>
+<area shape="rect" id="node25" href="$kvds_2kvds_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvds/kvds.hpp" alt="" coords="1600,238,2005,266"/>
+<area shape="rect" id="node29" href="$kvds__pod__type_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvds/kvds_pod_type.hpp" alt="" coords="1449,83,1921,111"/>
+<area shape="rect" id="node34" href="$kvds__mem_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvds/kvds_mem.hpp" alt="" coords="2029,238,2475,266"/>
+<area shape="rect" id="node44" href="$kvds__page__store_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvds/kvds_page_store.hpp" alt="" coords="464,161,949,189"/>
+<area shape="rect" id="node47" href="$kvds__template_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvds/kvds_template.hpp" alt="" coords="2176,83,2645,111"/>
+<area shape="rect" id="node5" href="$kvds__bdb_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvds/kvds_bdb.hpp" alt="" coords="683,238,1120,266"/>
+<area shape="rect" id="node7" href="$kvds_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvds.hpp" alt="" coords="832,315,1205,343"/>
+<area shape="rect" id="node9" href="$ikvds_8cpp.html" title="/home/mhx/git/github/libmoost/test/kvds/ikvds.cpp" alt="" coords="667,393,1008,421"/>
+<area shape="rect" id="node11" href="$kvds_8cpp.html" title="/home/mhx/git/github/libmoost/test/kvds/kvds.cpp" alt="" coords="1032,393,1371,421"/>
+<area shape="rect" id="node15" href="$kvds__kch_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvds/kvds_kch.hpp" alt="" coords="5,161,440,189"/>
+<area shape="rect" id="node20" href="$kvds__tch_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvds/kvds_tch.hpp" alt="" coords="1144,238,1576,266"/>
+<area shape="rect" id="node23" href="$kvds__key__iterator_8cpp.html" title="/home/mhx/git/github/libmoost/test/kvds/kvds_key_iterator.cpp" alt="" coords="1348,315,1769,343"/>
+<area shape="rect" id="node31" href="$kvds__integral__type_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvds/kvds_integral_type.hpp" alt="" coords="1555,161,2051,189"/>
+<area shape="rect" id="node36" href="$kvds__bdb__win32_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvds/detail/kvds_bdb_win32.hpp" alt="" coords="1793,315,2311,343"/>
+<area shape="rect" id="node38" href="$kvds__kch__win32_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvds/detail/kvds_kch_win32.hpp" alt="" coords="2335,315,2852,343"/>
+<area shape="rect" id="node40" href="$kvds__tch__win32_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvds/detail/kvds_tch_win32.hpp" alt="" coords="2876,315,3391,343"/>
+</map>

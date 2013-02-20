@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1transaction_1_1_transaction_handler.html#a61365235b957d80142b48fd26eb0ec2c" title="moost::transaction::TransactionHandler::TransactionHandler" alt="" coords="381,5,784,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1transaction_1_1_transaction_handler.html#a349eb74ee6c83f531ee31db567b88570" title="moost::transaction::TransactionHandler::post" alt="" coords="428,55,737,83"/>
+<area shape="rect" id="node8" href="$classmoost_1_1transaction_1_1_transaction_handler.html#a76171a4ba57a50c3bc0f5fd718da86d4" title="moost::transaction::TransactionHandler::CommitHandler" alt="" coords="833,55,1215,83"/>
+</map>

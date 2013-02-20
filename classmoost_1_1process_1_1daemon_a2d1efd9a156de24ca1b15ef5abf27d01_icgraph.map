@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1process_1_1daemon.html#a445b7b2c2d0e175db285c26a21eb5fdd" title="Is this process the parent." alt="" coords="292,30,540,58"/>
+<area shape="rect" id="node5" href="$classmoost_1_1process_1_1daemon.html#a131f55f917220c8d2655de50966bf0ac" title="moost::process::daemon::init" alt="" coords="591,5,799,33"/>
+<area shape="rect" id="node9" href="$classmoost_1_1process_1_1service.html#a03253864ede97298e825a7ab789c7dae" title="moost::process::service::run" alt="" coords="593,55,796,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1process_1_1daemon.html#ad716b02a8a423084205d2c091474a91a" title="Forks a child process." alt="" coords="856,5,1099,33"/>
+<area shape="rect" id="node11" href="$classmoost_1_1service_1_1skeleton.html#a10d4c0c62b55fb76e4f9f09e2fa6ddf1" title="Run the service." alt="" coords="848,55,1107,83"/>
+<area shape="rect" id="node13" href="$classmoost_1_1service_1_1skeleton.html#a5e3235b0c22d9e1051839b102ef5e0aa" title="Run the service." alt="" coords="1156,55,1361,83"/>
+<area shape="rect" id="node15" href="$classmoost_1_1service_1_1skeleton.html#a30698b2453405bdbb5be4d22a01b9faa" title="Safe main() implementation." alt="" coords="1412,55,1663,83"/>
+<area shape="rect" id="node17" href="$classmoost_1_1service_1_1skeleton.html#a0a2f889584d7b8fa2983654caad2c4ac" title="Main entry point for skeleton." alt="" coords="1712,55,1931,83"/>
+</map>

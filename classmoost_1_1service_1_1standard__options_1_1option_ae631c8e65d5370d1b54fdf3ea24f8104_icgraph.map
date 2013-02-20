@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1service_1_1standard__options.html#ac47a75019597539928ddb709f711865f" title="moost::service::standard_options::add_option" alt="" coords="376,131,691,159"/>
+<area shape="rect" id="node5" href="$classmoost_1_1service_1_1standard__options.html#a39770b3fad7f6bc9b7aff21b89e2f391" title="moost::service::standard_options::add_option" alt="" coords="739,5,1053,33"/>
+<area shape="rect" id="node7" href="$classmoost_1_1service_1_1standard__options.html#a5651a6151bc93055309a28545896ce2c" title="moost::service::standard_options::config" alt="" coords="756,55,1036,83"/>
+<area shape="rect" id="node11" href="$classmoost_1_1service_1_1standard__options.html#aa1be52f70f0d3b4a97892cfc23a9547a" title="moost::service::standard_options::port" alt="" coords="761,207,1031,235"/>
+<area shape="rect" id="node20" href="$classmoost_1_1service_1_1standard__options.html#a05e7d541b5d1b06cb6fd7dad94df6e34" title="moost::service::standard_options::pool" alt="" coords="761,106,1031,134"/>
+<area shape="rect" id="node23" href="$classmoost_1_1service_1_1standard__options.html#a9d102bb6320d71cfdd1c8ec15c676296" title="moost::service::standard_options::verbose" alt="" coords="749,157,1043,185"/>
+<area shape="rect" id="node26" href="$classmoost_1_1service_1_1standard__options.html#aa499b29fe606e460dde21fa72f53b898" title="moost::service::standard_options::operator()" alt="" coords="743,258,1049,286"/>
+<area shape="rect" id="node9" href="$classmoost_1_1service_1_1standard__options.html#a61e6b47275dee80212439e0a6a513a13" title="moost::service::standard_options::standard_options" alt="" coords="1101,131,1456,159"/>
+<area shape="rect" id="node13" href="$classmoost_1_1service_1_1skeleton.html#ab71ae346e9cc6878c3dd8cd5e63990ee" title="Set up and process command line options." alt="" coords="1105,207,1452,235"/>
+<area shape="rect" id="node15" href="$classmoost_1_1service_1_1skeleton.html#a30698b2453405bdbb5be4d22a01b9faa" title="Safe main() implementation." alt="" coords="1505,207,1756,235"/>
+<area shape="rect" id="node17" href="$classmoost_1_1service_1_1skeleton.html#a0a2f889584d7b8fa2983654caad2c4ac" title="Main entry point for skeleton." alt="" coords="1805,207,2024,235"/>
+</map>

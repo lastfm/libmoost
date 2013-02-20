@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classstomp__test__client.html#ac929363f7bb89999e6262ab086612ed9" title="stomp_test_client::run" alt="" coords="109,81,275,109"/>
+<area shape="rect" id="node44" href="$namespacestd.html#a6309ea7d4a5977b39fecf89747491b6d" title="std::endl" alt="" coords="153,131,231,159"/>
+<area shape="rect" id="node5" href="$classstomp__test__client.html#a286bb9d8c9aef866b19e0016ba1b6c56" title="stomp_test_client::init" alt="" coords="339,43,501,71"/>
+<area shape="rect" id="node9" href="$classstomp__test__client.html#ac87b394909889c7b16bde79d0f31e6f6" title="stomp_test_client::process" alt="" coords="323,119,517,147"/>
+<area shape="rect" id="node7" href="$classstomp__test__client.html#a8f29a9b0bf67094f4cff3002fe2f4f3d" title="stomp_test_client::show_help" alt="" coords="599,30,809,58"/>
+<area shape="rect" id="node11" href="$classmoost_1_1utils_1_1singleton__default.html#a71cce55dc397947e7b27e422d3124bf2" title="moost::utils::singleton_default::instance" alt="" coords="567,81,841,109"/>
+<area shape="rect" id="node13" href="$classstomp__test__client.html#af98445fd6b0a2450930fcfaa1715254d" title="stomp_test_client::reset_client" alt="" coords="595,131,813,159"/>
+<area shape="rect" id="node15" href="$classmoost_1_1service_1_1remote__shell.html#a0c1ff4e22ae1260998c6008d1cb7c3a5" title="moost::service::remote_shell::run" alt="" coords="587,182,821,210"/>
+<area shape="rect" id="node17" href="$classmoost_1_1service_1_1remote__shell__server.html#ad7bd9e269309da2565590afb41b82077" title="moost::service::remote_shell_server::run" alt="" coords="891,182,1173,210"/>
+<area shape="rect" id="node19" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#aa642524e92929f04a5fa2b3bf68c4665" title="moost::service::remote_shell_server_impl::run" alt="" coords="1221,182,1539,210"/>
+<area shape="rect" id="node21" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#aa1db66bd4e58dcd0d4b70c785629d074" title="moost::service::remote_shell_server_impl::setup_stdio_snoopers" alt="" coords="1591,55,2025,83"/>
+<area shape="rect" id="node27" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#a9a1f5b9c525594c9037ee16f8b68dedf" title="moost::service::remote_shell_server_impl::setup_console_session" alt="" coords="1587,157,2029,185"/>
+<area shape="rect" id="node33" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#a0893bf11ebf40f2e5a2433bf81643b01" title="moost::service::remote_shell_server_impl::accept_session" alt="" coords="1611,207,2005,235"/>
+<area shape="rect" id="node38" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#a3c82ac2972606a9c7030e00a6be25fa6" title="moost::service::remote_shell_server_impl::command_thread" alt="" coords="1603,258,2013,286"/>
+<area shape="rect" id="node23" href="$classsession__base.html#a7f5cb18985211f953a8696fba35deb53" title="session_base::add_stdout" alt="" coords="2208,5,2395,33"/>
+<area shape="rect" id="node25" href="$classsession__base.html#ae016a84a55880665d0962f8196f43014" title="session_base::add_stderr" alt="" coords="2209,55,2393,83"/>
+<area shape="rect" id="node29" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#a6f043a4b6a946cbe934b4e450486ded5" title="moost::service::remote_shell_server_impl::create_console_session" alt="" coords="2077,106,2525,134"/>
+<area shape="rect" id="node31" href="$classsession__base.html#a673f6406c5cefb2493c1bcbc77fc890a" title="session_base::set_stdout_state" alt="" coords="2189,157,2413,185"/>
+<area shape="rect" id="node35" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#a10e9272c835349c95d17f950c9057aa5" title="moost::service::remote_shell_server_impl::handle_accept" alt="" coords="2107,207,2496,235"/>
+<area shape="rect" id="node40" href="$classmoost_1_1service_1_1remote__shell__iface.html#aa04be54593d4bea94f0b9019b35cdfe6" title="Application&#45;specific command handler." alt="" coords="2119,258,2484,286"/>
+<area shape="rect" id="node42" href="$classsession__base.html#a112c2a447f0c1c9bc9d2dc135f34e2f5" title="session_base::command_result" alt="" coords="2189,309,2413,337"/>
+</map>

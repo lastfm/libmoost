@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1process_1_1service_1_1service__wrapper.html#a8496e84a9a6c61e155c072461f415db9" title="moost::process::service::service_wrapper::log" alt="" coords="315,5,627,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1process_1_1service.html#aa41fbfed88841faa30e896107a5714f0" title="moost::process::service::quit" alt="" coords="368,55,573,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1process_1_1sleeper.html#a9a21e922fa570f0a54c0bcc0cc541629" title="moost::process::sleeper::awaken" alt="" coords="675,55,907,83"/>
+</map>

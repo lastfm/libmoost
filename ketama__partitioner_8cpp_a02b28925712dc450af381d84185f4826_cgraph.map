@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1algorithm_1_1partitioner.html#a40c5d1f1e38365e9e182fea1e77ac84c" title="Return the number of buckets the partitioner will assign keys to." alt="" coords="257,5,556,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1algorithm_1_1ketama__partitioner.html#a1203f33f67f0be24fd089f27efc753d3" title="moost::algorithm::ketama_partitioner::partition" alt="" coords="245,55,568,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1algorithm_1_1ketama__partitioner.html#af2f846e9c80cd69b722f8c86aed198c6" title="moost::algorithm::ketama_partitioner::fnv_hash" alt="" coords="617,55,943,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classmoost_1_1guarded__ptr_1_1upgradable__access.html" title="Objects of this class represent an upgradable lock of the guarded_ptr&#39;s mutex." alt="" coords="36,179,353,207"/>
+<area shape="rect" id="node4" href="$classboost_1_1noncopyable.html" title="noncopyable" alt="" coords="163,6,264,34"/>
+<area shape="rect" id="node6" href="$classmoost_1_1guarded__ptr.html" title="Wrapper around shared_ptr that guards the referenced object with a mutex." alt="" coords="211,86,397,114"/>
+</map>

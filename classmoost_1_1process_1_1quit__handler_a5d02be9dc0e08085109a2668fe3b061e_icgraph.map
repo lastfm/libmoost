@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1process_1_1quit__handler.html#af4fa31cf8fe6b2bbf99324503cc41bb8" title="moost::process::quit_handler::set" alt="" coords="375,5,609,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1process_1_1service.html#a03253864ede97298e825a7ab789c7dae" title="moost::process::service::run" alt="" coords="659,5,861,33"/>
+<area shape="rect" id="node7" href="$classmoost_1_1service_1_1skeleton.html#a10d4c0c62b55fb76e4f9f09e2fa6ddf1" title="Run the service." alt="" coords="909,5,1168,33"/>
+<area shape="rect" id="node9" href="$classmoost_1_1service_1_1skeleton.html#a5e3235b0c22d9e1051839b102ef5e0aa" title="Run the service." alt="" coords="1217,5,1423,33"/>
+<area shape="rect" id="node11" href="$classmoost_1_1service_1_1skeleton.html#a30698b2453405bdbb5be4d22a01b9faa" title="Safe main() implementation." alt="" coords="1473,5,1724,33"/>
+<area shape="rect" id="node13" href="$classmoost_1_1service_1_1skeleton.html#a0a2f889584d7b8fa2983654caad2c4ac" title="Main entry point for skeleton." alt="" coords="1773,5,1992,33"/>
+</map>

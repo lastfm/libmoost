@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1process_1_1ownership.html#ac94395f3ec25d4a9f296c48fef93fca4" title="Set new user id by user name." alt="" coords="323,5,579,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1process_1_1ownership.html#aaebe97c015a2ab734017b4022dd0b879" title="Drop process ownership privileges." alt="" coords="303,55,599,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1service_1_1_uid_gid_process_ownership_policy.html#a092408adc5299300432183359a09d2dc" title="moost::service::UidGidProcessOwnershipPolicy::change_ownership" alt="" coords="648,55,1091,83"/>
+</map>

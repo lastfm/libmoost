@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1algorithm_1_1ketama__partitioner.html" title="ketama_partitioner implements consistent hashing, such that the addition or removal of buckets does n..." alt="" coords="296,5,595,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1algorithm_1_1modulo__partitioner.html" title="modulo_partitioner hashes the key then modulos the result against the number of buckets. This results in an even spread given a reasonable hasher." alt="" coords="296,55,595,83"/>
+</map>

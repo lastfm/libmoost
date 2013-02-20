@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#aa1db66bd4e58dcd0d4b70c785629d074" title="moost::service::remote_shell_server_impl::setup_stdio_snoopers" alt="" coords="375,55,809,83"/>
+<area shape="rect" id="node9" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#a9a1f5b9c525594c9037ee16f8b68dedf" title="moost::service::remote_shell_server_impl::setup_console_session" alt="" coords="371,157,813,185"/>
+<area shape="rect" id="node15" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#a0893bf11ebf40f2e5a2433bf81643b01" title="moost::service::remote_shell_server_impl::accept_session" alt="" coords="395,207,789,235"/>
+<area shape="rect" id="node20" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#a3c82ac2972606a9c7030e00a6be25fa6" title="moost::service::remote_shell_server_impl::command_thread" alt="" coords="387,258,797,286"/>
+<area shape="rect" id="node5" href="$classsession__base.html#a7f5cb18985211f953a8696fba35deb53" title="session_base::add_stdout" alt="" coords="992,5,1179,33"/>
+<area shape="rect" id="node7" href="$classsession__base.html#ae016a84a55880665d0962f8196f43014" title="session_base::add_stderr" alt="" coords="993,55,1177,83"/>
+<area shape="rect" id="node11" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#a6f043a4b6a946cbe934b4e450486ded5" title="moost::service::remote_shell_server_impl::create_console_session" alt="" coords="861,106,1309,134"/>
+<area shape="rect" id="node13" href="$classsession__base.html#a673f6406c5cefb2493c1bcbc77fc890a" title="session_base::set_stdout_state" alt="" coords="973,157,1197,185"/>
+<area shape="rect" id="node17" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#a10e9272c835349c95d17f950c9057aa5" title="moost::service::remote_shell_server_impl::handle_accept" alt="" coords="891,207,1280,235"/>
+<area shape="rect" id="node22" href="$classmoost_1_1service_1_1remote__shell__iface.html#aa04be54593d4bea94f0b9019b35cdfe6" title="Application&#45;specific command handler." alt="" coords="903,258,1268,286"/>
+<area shape="rect" id="node24" href="$classsession__base.html#a112c2a447f0c1c9bc9d2dc135f34e2f5" title="session_base::command_result" alt="" coords="973,309,1197,337"/>
+</map>

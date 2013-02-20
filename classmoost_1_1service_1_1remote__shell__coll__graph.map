@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classmoost_1_1service_1_1remote__shell__iface.html" title="Interface for remote command shell." alt="" coords="5,179,248,207"/>
+<area shape="rect" id="node4" href="$classmoost_1_1service_1_1remote__shell__server.html" title="Compiler firewall for remote_shell_server_impl." alt="" coords="272,179,525,207"/>
+<area shape="rect" id="node6" href="$classboost_1_1noncopyable.html" title="noncopyable" alt="" coords="311,6,412,34"/>
+<area shape="rect" id="node8" href="$classmoost_1_1service_1_1remote__shell__server__impl.html" title="moost::service::remote_shell_server_impl" alt="" coords="345,86,633,114"/>
+</map>

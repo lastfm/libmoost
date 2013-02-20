@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classboost_1_1noncopyable.html" title="noncopyable" alt="" coords="124,6,225,34"/>
+<area shape="rect" id="node4" href="$classmoost_1_1guarded__ptr.html" title="Wrapper around shared_ptr that guards the referenced object with a mutex." alt="" coords="172,86,359,114"/>
+</map>

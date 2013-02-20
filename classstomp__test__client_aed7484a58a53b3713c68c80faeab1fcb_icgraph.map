@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classstomp__test__client.html#a979f7aeb2f2c0d63439bac124a43f9e2" title="stomp_test_client::simple_command" alt="" coords="347,55,605,83"/>
+<area shape="rect" id="node12" href="$classstomp__test__client.html#a956eda708a94c93a08331748a2ce58c4" title="stomp_test_client::status" alt="" coords="668,106,852,134"/>
+<area shape="rect" id="node15" href="$classstomp__test__client.html#ab57128aaadcfff2b1f99c5301b8ebcd8" title="stomp_test_client::num_processed" alt="" coords="353,157,599,185"/>
+<area shape="rect" id="node18" href="$classstomp__test__client.html#aaeaafb6a6682a9330c3dad0d51c87d19" title="stomp_test_client::num_pending" alt="" coords="361,207,591,235"/>
+<area shape="rect" id="node5" href="$classstomp__test__client.html#ab137f3b3e136717221b725da4b33700b" title="stomp_test_client::disconnect" alt="" coords="653,5,867,33"/>
+<area shape="rect" id="node9" href="$classstomp__test__client.html#adbefc5b3ee29ce72333b0d6b3a7976a8" title="stomp_test_client::reset" alt="" coords="672,55,848,83"/>
+<area shape="rect" id="node7" href="$classstomp__test__client.html#ab320312516f626e40a84ea933b9efcc8" title="stomp_test_client::handle_command" alt="" coords="915,106,1173,134"/>
+</map>

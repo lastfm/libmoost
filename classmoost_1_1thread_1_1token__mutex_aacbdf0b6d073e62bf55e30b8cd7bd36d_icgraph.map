@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1thread_1_1token__mutex.html#a938dcd65d307da52162a64c4fa22d94a" title="unlock on a given token" alt="" coords="307,5,560,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1thread_1_1token__mutex.html#aa792a45e657588e5d1a4ebd6d70bb4e8" title="lock for everybody (but first wait until pending are done)" alt="" coords="303,55,564,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1thread_1_1token__mutex.html#a793b0f2db5dfc84f00f63f72f42198e9" title="unlock the full_lock" alt="" coords="295,106,572,134"/>
+<area shape="rect" id="node9" href="$classmoost_1_1thread_1_1token__mutex.html#adcad6169962ef5578026b98919811ff5" title="try to lock on a given token" alt="" coords="307,157,560,185"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classsession__base.html#ac7f78aa3774326579636576f9ed0ba21" title="session_base::stop" alt="" coords="551,5,695,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#a3c1a7d829190f28d1b6cff223a5e84ec" title="moost::service::remote_shell_server_impl::pre_shutdown" alt="" coords="431,55,815,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1service_1_1remote__shell__server__impl.html#a85e3e3bedc501afc9a7bcfe6a7353e16" title="moost::service::remote_shell_server_impl::teardown_stdio_snoopers" alt="" coords="864,55,1323,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classmoost_1_1configurable_1_1binder.html" title="binder is a helper class that aids synchronized binding/setting/getting of nested configurations..." alt="" coords="677,103,875,131"/>
+<area shape="rect" id="node15" href="$struct_simple_configurable.html" title="SimpleConfigurable" alt="" coords="1035,127,1181,155"/>
+<area shape="rect" id="node4" href="$classmoost_1_1configurable_1_1configurable.html" title="Anything that inherits from this type guarantees it can have configurations stored/retrieved/listed." alt="" coords="283,55,517,83"/>
+<area shape="rect" id="node10" href="$classmoost_1_1configurable_1_1indexed__binder.html" title="moost::configurable::indexed_binder\&lt; AddressConfigurable \&gt;" alt="" coords="568,15,984,43"/>
+<area shape="rect" id="node6" href="$classmoost_1_1configurable_1_1persistable.html" title="Anything that inherits from this type guarantees that it can be persisted to/loaded from a stream..." alt="" coords="5,55,232,83"/>
+<area shape="rect" id="node8" href="$classboost_1_1noncopyable.html" title="noncopyable" alt="" coords="349,106,451,134"/>
+<area shape="rect" id="node13" href="$classboost_1_1noncopyable.html" title="boost::noncopyable" alt="" coords="327,5,473,33"/>
+</map>

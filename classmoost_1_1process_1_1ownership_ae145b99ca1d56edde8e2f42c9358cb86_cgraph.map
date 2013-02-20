@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1process_1_1ownership.html#a89a69bdcc9fafec47f9ff0c28c56e815" title="Lookup user name by user id." alt="" coords="389,5,667,33"/>
+<area shape="rect" id="node7" href="$classmoost_1_1process_1_1ownership.html#abdf20e619700618d46daad3c001750ff" title="Get current effective user id." alt="" coords="373,55,683,83"/>
+<area shape="rect" id="node5" href="$classmoost_1_1process_1_1detail_1_1ownership.html#a454c8d8b573f9b1fddff842821c780a6" title="moost::process::detail::ownership::lookup_user" alt="" coords="747,5,1067,33"/>
+<area shape="rect" id="node9" href="$classmoost_1_1process_1_1detail_1_1ownership.html#a7d873c9b0d4f81135968389db8177432" title="moost::process::detail::ownership::get_effective_uid" alt="" coords="731,55,1083,83"/>
+</map>

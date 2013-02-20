@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$classmoost_1_1configurable_1_1indexed__binder.html" title="moost::configurable::indexed_binder\&lt; AddressConfigurable \&gt;" alt="" coords="563,30,979,58"/>
+<area shape="rect" id="node7" href="$classmoost_1_1configurable_1_1binder.html" title="binder is a helper class that aids synchronized binding/setting/getting of nested configurations..." alt="" coords="672,81,869,109"/>
+<area shape="rect" id="node17" href="$classmoost_1_1configurable_1_1indexed__binder.html" title="indexed_binder allows a variable number of configurables accessed by index." alt="" coords="625,131,916,159"/>
+<area shape="rect" id="node2" href="$classmoost_1_1configurable_1_1persistable.html" title="Anything that inherits from this type guarantees that it can be persisted to/loaded from a stream..." alt="" coords="5,81,232,109"/>
+<area shape="rect" id="node9" href="$struct_address_configurable.html" title="AddressConfigurable" alt="" coords="1029,5,1184,33"/>
+<area shape="rect" id="node11" href="$struct_bool_configurable.html" title="BoolConfigurable" alt="" coords="1041,55,1172,83"/>
+<area shape="rect" id="node13" href="$struct_complex_configurable.html" title="ComplexConfigurable" alt="" coords="1028,106,1185,134"/>
+<area shape="rect" id="node15" href="$struct_simple_configurable.html" title="SimpleConfigurable" alt="" coords="1033,157,1180,185"/>
+</map>

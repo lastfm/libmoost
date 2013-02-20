@@ -1,0 +1,25 @@
+var classmoost_1_1kvds_1_1_kvds_template =
+[
+    [ "store_type", "classmoost_1_1kvds_1_1_kvds_template.html#ad10452eb688eb7559334e4f35b7876ca", null ],
+    [ "KvdsTemplate", "classmoost_1_1kvds_1_1_kvds_template.html#acd18af4e362d424cc6ac3d7dc1b1a1a4", null ],
+    [ "~KvdsTemplate", "classmoost_1_1kvds_1_1_kvds_template.html#a2d87a5f80542282e4530714e624c5cde", null ],
+    [ "add", "classmoost_1_1kvds_1_1_kvds_template.html#ad1fa39145c3e94f1aecda98fcfce70b0", null ],
+    [ "all", "classmoost_1_1kvds_1_1_kvds_template.html#a27d462312c840eb04710d856119da06f", null ],
+    [ "beg", "classmoost_1_1kvds_1_1_kvds_template.html#a23861a34c8adf2158a765cd3d201f286", null ],
+    [ "close", "classmoost_1_1kvds_1_1_kvds_template.html#adf49d66ac0323cc97ebae1c31828ea9b", null ],
+    [ "clr", "classmoost_1_1kvds_1_1_kvds_template.html#a7e1c8c8872de7acf36c8bc337320e845", null ],
+    [ "cnt", "classmoost_1_1kvds_1_1_kvds_template.html#a82addc10486f2c22ecf47cb7c4b37689", null ],
+    [ "del", "classmoost_1_1kvds_1_1_kvds_template.html#a23f5088ab5440897a8807ba9ba278532", null ],
+    [ "end", "classmoost_1_1kvds_1_1_kvds_template.html#ab44a9485efba221d5f8a4292c8c43840", null ],
+    [ "get", "classmoost_1_1kvds_1_1_kvds_template.html#a8e28dfb47e75d00083d5aa894725764f", null ],
+    [ "get_store", "classmoost_1_1kvds_1_1_kvds_template.html#a291c53d298a2fb4cce59f5b724e62a5b", null ],
+    [ "nil", "classmoost_1_1kvds_1_1_kvds_template.html#af43ca79d7667c20acb2b4d44fc9915b6", null ],
+    [ "nxt", "classmoost_1_1kvds_1_1_kvds_template.html#aeb478deefc974d0f41000ec7341bd007", null ],
+    [ "open", "classmoost_1_1kvds_1_1_kvds_template.html#a0c1b67a877671070d16c69bef86955a4", null ],
+    [ "put", "classmoost_1_1kvds_1_1_kvds_template.html#a603440552e21830320dff2ec02a44549", null ],
+    [ "save", "classmoost_1_1kvds_1_1_kvds_template.html#aac774bf7857b5f8fe16b7f5d5f2096fd", null ],
+    [ "siz", "classmoost_1_1kvds_1_1_kvds_template.html#ad50a88b4a91e537e80cfab7b31922e23", null ],
+    [ "xst", "classmoost_1_1kvds_1_1_kvds_template.html#a9a90ac4bec334314bba2b8a359eb17ae", null ],
+    [ "dsname_", "classmoost_1_1kvds_1_1_kvds_template.html#a28d828e03945f80811863eaf21e20807", null ],
+    [ "store_", "classmoost_1_1kvds_1_1_kvds_template.html#abff1c539001e7040ba76739ad07ab61f", null ]
+];

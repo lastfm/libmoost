@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1kvds_1_1_kvds_page_store.html#a817d96614cac576f5e9a21e7fd1269b5" title="moost::kvds::KvdsPageStore::open" alt="" coords="421,5,664,33"/>
+<area shape="rect" id="node7" href="$classmoost_1_1kvds_1_1_kvds_page_store.html#aaeeedb8c12fd54e7253d9f77ba93c7b3" title="moost::kvds::KvdsPageStore::get_storeid" alt="" coords="401,55,684,83"/>
+<area shape="rect" id="node5" href="$ikvds_8cpp.html#afbc25d7d69aeaf4b4e868e977e9b246a" title="BOOST_FIXTURE_TEST_CASE" alt="" coords="749,5,955,33"/>
+<area shape="rect" id="node9" href="$classmoost_1_1kvds_1_1_kvds_page_store.html#ab577e91a78b68620c497021d3e843654" title="Overwrites existing values." alt="" coords="736,55,968,83"/>
+<area shape="rect" id="node11" href="$classmoost_1_1kvds_1_1_kvds_page_store.html#abdf83401d2d1dc4a013cc43860de743e" title="Appends to existing values." alt="" coords="735,106,969,134"/>
+</map>

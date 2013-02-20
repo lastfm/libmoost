@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1xml_1_1simple__parser.html#af42a26b6aa90988929dc732bad3a6285" title="moost::xml::simple_parser::load" alt="" coords="481,5,708,33"/>
+<area shape="rect" id="node10" href="$classmoost_1_1xml_1_1simple__parser.html#a4abe452dccd19aa1b75d09a097f1ae10" title="moost::xml::simple_parser::get_root" alt="" coords="468,55,721,83"/>
+<area shape="rect" id="node5" href="$classmoost_1_1xml_1_1simple__parser.html#a6765295678b7a6f6ca7f40b02db1f266" title="moost::xml::simple_parser::parse_token" alt="" coords="1151,5,1428,33"/>
+<area shape="rect" id="node7" href="$classmoost_1_1xml_1_1simple__parser.html#a3dc8e6ef205cbcad93c37c5eeb2045c6" title="moost::xml::simple_parser::recursive_parse_tag" alt="" coords="772,30,1100,58"/>
+</map>

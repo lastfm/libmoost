@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1io_1_1file__watcher.html#a8cdfd6eaa3c130c6be55e983636ed075" title="Adds path to the list of monitored paths." alt="" coords="567,55,775,83"/>
+<area shape="rect" id="node11" href="$classmoost_1_1io_1_1file__watcher.html#a3f63d9f551f142fdfcfeb78f1400c6cf" title="Entry point for the asynchronous monitor thread." alt="" coords="323,106,517,134"/>
+<area shape="rect" id="node5" href="$classmoost_1_1io_1_1ionotify.html#afb493db0969744e3596e07230109cb3f" title="moost::io::ionotify::insert" alt="" coords="876,5,1055,33"/>
+<area shape="rect" id="node7" href="$classmoost_1_1io_1_1file__backed__data__source.html#a75cff2976b940bcc0587c09c31c8bab3" title="moost::io::file_backed_data_source::load" alt="" coords="824,55,1107,83"/>
+<area shape="rect" id="node9" href="$struct_fixture.html#a7bd87f852602d02a205b4a811530dfe4" title="Fixture::Fixture" alt="" coords="908,106,1023,134"/>
+<area shape="rect" id="node13" href="$classmoost_1_1io_1_1file__watcher.html#a2e124caa7807f3fc08f4d573a45d31eb" title="Starts the asynchronous monitor thread." alt="" coords="569,106,772,134"/>
+<area shape="rect" id="node15" href="$classmoost_1_1io_1_1ionotify.html#afb59089a24477ff337ce5f665a04f623" title="moost::io::ionotify::start" alt="" coords="879,157,1052,185"/>
+</map>

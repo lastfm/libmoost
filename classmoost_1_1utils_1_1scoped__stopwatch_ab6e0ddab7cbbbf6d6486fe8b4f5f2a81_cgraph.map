@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1utils_1_1stopwatch.html#abfaeb66279222d89ca18e2465e800398" title="moost::utils::stopwatch::elapsed_secs" alt="" coords="413,5,677,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1utils_1_1stopwatch.html#af9611f6ff7da313f6b6fe79f42a038ad" title="moost::utils::stopwatch::elapsed_ms" alt="" coords="419,55,672,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1utils_1_1stopwatch.html#af84a3f58acf9644841d59ff8a5145870" title="moost::utils::stopwatch::elapsed_us" alt="" coords="725,157,976,185"/>
+<area shape="rect" id="node9" href="$classmoost_1_1utils_1_1stopwatch.html#ad7c52a585bd57665d3ad12b5da2a7ef5" title="moost::utils::stopwatch::elapsed_ns" alt="" coords="420,157,671,185"/>
+<area shape="rect" id="node11" href="$classmoost_1_1utils_1_1stopwatch.html#aeb13428decc9762ad18d546d12bb5d0c" title="moost::utils::stopwatch::elapsed" alt="" coords="432,207,659,235"/>
+</map>

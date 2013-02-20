@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classmoost_1_1container_1_1multi__map.html" title="moost::container::multi_map\&lt; int, std::pair\&lt; int, float \&gt;, TLocMap \&gt;" alt="" coords="5,5,464,33"/>
+<area shape="rect" id="node3" href="$classmoost_1_1container_1_1neigh__multi__map.html" title="neigh_multi_map is a container that associates keys to list of pairs of integers and floats read from..." alt="" coords="513,5,847,33"/>
+</map>

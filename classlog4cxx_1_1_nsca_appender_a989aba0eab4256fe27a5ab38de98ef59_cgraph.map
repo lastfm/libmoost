@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classlog4cxx_1_1_nsca_appender.html#a84fad92cd00127b87c355d5cdf5d7721" title="Set the nsca server host name." alt="" coords="317,5,579,33"/>
+<area shape="rect" id="node7" href="$classlog4cxx_1_1_nsca_appender.html#aab342c5eafec7a588b5d26a819369a6a" title="Set the nsca server port." alt="" coords="319,55,577,83"/>
+<area shape="rect" id="node10" href="$classlog4cxx_1_1_nsca_appender.html#a7f3be23412dc707a2c0ef6ac5028bf04" title="Set the socket receive timeout in ms." alt="" coords="299,106,597,134"/>
+<area shape="rect" id="node13" href="$classlog4cxx_1_1_nsca_appender.html#a5f990797c405aa13cab4c9c1aa7186b4" title="Set the socket send timeout in ms." alt="" coords="297,157,599,185"/>
+<area shape="rect" id="node16" href="$classlog4cxx_1_1_nsca_appender.html#a52b2421c2bafd6d8e76a1bd2373e0b64" title="Set the encryption type." alt="" coords="323,207,573,235"/>
+<area shape="rect" id="node19" href="$classlog4cxx_1_1_nsca_appender.html#ae3168966ae5aab76a024326457543f60" title="Set the encryption password if needed." alt="" coords="323,258,573,286"/>
+<area shape="rect" id="node22" href="$classlog4cxx_1_1_nsca_appender.html#ad3ce631f842eba3156f96397d00bb46d" title="Set the host name of the client." alt="" coords="321,309,575,337"/>
+<area shape="rect" id="node25" href="$classlog4cxx_1_1_nsca_appender.html#a4262d1f5f024dcf5579d540f5e151929" title="Set a description for the client." alt="" coords="305,359,591,387"/>
+<area shape="rect" id="node5" href="$namespacestd.html#a6309ea7d4a5977b39fecf89747491b6d" title="std::endl" alt="" coords="648,182,725,210"/>
+</map>

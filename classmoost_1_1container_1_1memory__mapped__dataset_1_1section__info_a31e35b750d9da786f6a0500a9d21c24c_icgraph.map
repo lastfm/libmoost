@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1container_1_1memory__mapped__dataset_1_1writer.html#a234f8bb3606f031b5330a4d1b50834a8" title="moost::container::memory_mapped_dataset::writer::set_active_section" alt="" coords="519,107,996,135"/>
+<area shape="rect" id="node5" href="$classmoost_1_1container_1_1memory__mapped__dataset_1_1writer.html#a40919add354b704a59f037db650b65eb" title="moost::container::memory_mapped_dataset::writer::write" alt="" coords="1083,69,1472,97"/>
+<area shape="rect" id="node15" href="$classmoost_1_1container_1_1memory__mapped__dataset_1_1writer.html#ad978deeeb0e1fe2cc2843533ca68f4c2" title="moost::container::memory_mapped_dataset::writer::commit_section" alt="" coords="1047,145,1508,173"/>
+<area shape="rect" id="node7" href="$classmoost_1_1container_1_1memory__mapped__dataset_1_1writer.html#a5de60e7dab2f80ad52475899e573d7e8" title="moost::container::memory_mapped_dataset::writer::writer" alt="" coords="1557,5,1952,33"/>
+<area shape="rect" id="node9" href="$classmoost_1_1container_1_1memory__mapped__dataset_1_1writer.html#aab3c272bbeb49438416b42ff55604ef3" title="moost::container::memory_mapped_dataset::writer::close" alt="" coords="1559,55,1951,83"/>
+<area shape="rect" id="node13" href="$classmoost_1_1container_1_1mmd__section__writer__base.html#a859ee3f97b3281c77c1537c9ca4a05f4" title="moost::container::mmd_section_writer_base::write" alt="" coords="1583,106,1927,134"/>
+<area shape="rect" id="node11" href="$classmoost_1_1container_1_1memory__mapped__dataset_1_1writer.html#a7f97b91c301460b2ac12f6ddce7c4fec" title="moost::container::memory_mapped_dataset::writer::~writer" alt="" coords="2044,55,2449,83"/>
+<area shape="rect" id="node17" href="$classmoost_1_1container_1_1mmd__section__writer__base.html#ace9965c594be735cbc592906a81ef390" title="moost::container::mmd_section_writer_base::commit" alt="" coords="1573,157,1936,185"/>
+<area shape="rect" id="node19" href="$classmoost_1_1container_1_1mmd__section__writer__base.html#aa8803d83b38424101c4255f458e05324" title="moost::container::mmd_section_writer_base::~mmd_section_writer_base" alt="" coords="2001,157,2492,185"/>
+</map>

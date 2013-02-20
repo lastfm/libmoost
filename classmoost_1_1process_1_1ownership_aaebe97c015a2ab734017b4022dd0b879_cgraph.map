@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1process_1_1ownership.html#a508aea627293a20b3e614fe5e10052c9" title="Lookup user id by user name." alt="" coords="352,5,621,33"/>
+<area shape="rect" id="node9" href="$classmoost_1_1process_1_1ownership.html#a2e7bfb84c95dff4171d3a27c1e9c5155" title="Lookup group id by group name." alt="" coords="352,55,621,83"/>
+<area shape="rect" id="node15" href="$classmoost_1_1process_1_1ownership.html#a1012a5d577ac9fb23a17bfe459b5d725" title="Set new group id." alt="" coords="364,106,609,134"/>
+<area shape="rect" id="node19" href="$classmoost_1_1process_1_1ownership.html#a89c88a5eb618730dd0bda8df3b7a6547" title="Set new user id." alt="" coords="364,157,609,185"/>
+<area shape="rect" id="node5" href="$classmoost_1_1process_1_1detail_1_1ownership.html#a3771d03b39970273a21d106bcec664ea" title="moost::process::detail::ownership::lookup_uid" alt="" coords="669,5,981,33"/>
+<area shape="rect" id="node7" href="$classmoost_1_1process_1_1detail_1_1ownership.html#a454c8d8b573f9b1fddff842821c780a6" title="moost::process::detail::ownership::lookup_user" alt="" coords="1035,5,1355,33"/>
+<area shape="rect" id="node11" href="$classmoost_1_1process_1_1detail_1_1ownership.html#a2d3bfe9c0bb3f9696b603b419a9cc8d0" title="moost::process::detail::ownership::lookup_gid" alt="" coords="669,55,981,83"/>
+<area shape="rect" id="node13" href="$classmoost_1_1process_1_1detail_1_1ownership.html#adc36466cf357b064e644360020c37267" title="moost::process::detail::ownership::lookup_group" alt="" coords="1029,55,1360,83"/>
+<area shape="rect" id="node17" href="$classmoost_1_1process_1_1detail_1_1ownership.html#afcbecd51549c81b778daf30185622bf7" title="moost::process::detail::ownership::set_gid" alt="" coords="680,106,971,134"/>
+<area shape="rect" id="node21" href="$classmoost_1_1process_1_1detail_1_1ownership.html#af96cad82bb2be176e2f296b9ae586f34" title="moost::process::detail::ownership::set_uid" alt="" coords="680,157,971,185"/>
+</map>

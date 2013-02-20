@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1container_1_1memory__mapped__dataset_1_1writer.html#a40919add354b704a59f037db650b65eb" title="moost::container::memory_mapped_dataset::writer::write" alt="" coords="449,106,839,134"/>
+<area shape="rect" id="node5" href="$classmoost_1_1container_1_1memory__mapped__dataset_1_1writer.html#a234f8bb3606f031b5330a4d1b50834a8" title="moost::container::memory_mapped_dataset::writer::set_active_section" alt="" coords="889,106,1367,134"/>
+<area shape="rect" id="node7" href="$classmoost_1_1container_1_1memory__mapped__dataset_1_1writer.html#a5817fbd1c1b36ed1bb057d1dc30f56e0" title="moost::container::memory_mapped_dataset::writer::find" alt="" coords="1459,5,1840,33"/>
+<area shape="rect" id="node9" href="$classmoost_1_1container_1_1memory__mapped__dataset_1_1section__info.html#a6602175412c714c847fd6ccad55e8bdb" title="moost::container::memory_mapped_dataset::section_info::offset" alt="" coords="1931,131,2368,159"/>
+<area shape="rect" id="node11" href="$classmoost_1_1container_1_1memory__mapped__dataset_1_1writer.html#a12aae355604e63d4a89548423e85c85b" title="moost::container::memory_mapped_dataset::writer::align_stream" alt="" coords="1428,106,1871,134"/>
+<area shape="rect" id="node13" href="$classmoost_1_1container_1_1memory__mapped__dataset_1_1section__info.html#afe927acf973f3849f04357e1decd7ecb" title="moost::container::memory_mapped_dataset::section_info::alignment" alt="" coords="1417,157,1881,185"/>
+<area shape="rect" id="node15" href="$classmoost_1_1container_1_1memory__mapped__dataset_1_1section__info.html#a31e35b750d9da786f6a0500a9d21c24c" title="moost::container::memory_mapped_dataset::section_info::set_offset" alt="" coords="1417,207,1881,235"/>
+</map>

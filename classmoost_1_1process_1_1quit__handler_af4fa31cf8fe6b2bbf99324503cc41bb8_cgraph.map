@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1process_1_1quit__handler.html#a829ff17ec3fc3413424f6653606c066d" title="moost::process::quit_handler::get_single_instance" alt="" coords="991,5,1332,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1process_1_1quit__handler.html#a5d02be9dc0e08085109a2668fe3b061e" title="moost::process::quit_handler::register_handler" alt="" coords="291,30,611,58"/>
+<area shape="rect" id="node7" href="$classmoost_1_1process_1_1quit__handler.html#af04041c3f8d3db09666281e151415274" title="moost::process::quit_handler::sighandler" alt="" coords="659,30,941,58"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1process_1_1detail_1_1ownership.html#a2d3bfe9c0bb3f9696b603b419a9cc8d0" title="moost::process::detail::ownership::lookup_gid" alt="" coords="384,55,696,83"/>
+<area shape="rect" id="node15" href="$classmoost_1_1process_1_1ownership.html#ae66a0388411bae8b69e387e04afae992" title="Lookup group name by group id." alt="" coords="397,106,683,134"/>
+<area shape="rect" id="node5" href="$classmoost_1_1process_1_1ownership.html#a2e7bfb84c95dff4171d3a27c1e9c5155" title="Lookup group id by group name." alt="" coords="773,55,1043,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1process_1_1ownership.html#a7514ea95ffeed74c0917e0f87cfbc0d9" title="Set new group id by group name." alt="" coords="1152,5,1416,33"/>
+<area shape="rect" id="node9" href="$classmoost_1_1process_1_1ownership.html#a2f0b8d2a3b5599d20b149c8d7c14f88f" title="Set new effective group id by group name." alt="" coords="1121,55,1447,83"/>
+<area shape="rect" id="node11" href="$classmoost_1_1process_1_1ownership.html#aaebe97c015a2ab734017b4022dd0b879" title="Drop process ownership privileges." alt="" coords="1136,106,1432,134"/>
+<area shape="rect" id="node13" href="$classmoost_1_1service_1_1_uid_gid_process_ownership_policy.html#a092408adc5299300432183359a09d2dc" title="moost::service::UidGidProcessOwnershipPolicy::change_ownership" alt="" coords="1496,106,1939,134"/>
+<area shape="rect" id="node17" href="$classmoost_1_1process_1_1ownership.html#abae94fbe5f3a07aff7f94f3be675c549" title="Get current group name." alt="" coords="775,106,1041,134"/>
+<area shape="rect" id="node19" href="$classmoost_1_1process_1_1ownership.html#a38bbeaaf699ea30d240e6fb781baf443" title="Get current effective group name." alt="" coords="745,157,1071,185"/>
+</map>

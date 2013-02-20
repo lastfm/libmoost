@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$struct_fixture__generic.html" title="Fixture_generic\&lt; multi_map\&lt; int, boost::int8_t, moost::container::sparse_hash_map\&lt; int, multimap_value_type \&gt; \&gt; \&gt;" alt="" coords="59,5,840,33"/>
+<area shape="rect" id="node3" href="$struct_fixture__sparse.html" title="Fixture_sparse" alt="" coords="941,55,1056,83"/>
+<area shape="rect" id="node4" href="$struct_fixture__generic.html" title="Fixture_generic\&lt; neigh_multi_map\&lt; moost::container::sparse_hash_map\&lt; int, multimap_value_type \&gt; \&gt; \&gt;" alt="" coords="93,55,805,83"/>
+<area shape="rect" id="node6" href="$struct_fixture__generic.html" title="Fixture_generic\&lt; simple_multi_map\&lt; int, std::pair\&lt; int, float \&gt;, moost::container::sparse_hash_map\&lt; int, multimap_value_type \&gt; \&gt; \&gt;" alt="" coords="7,106,892,134"/>
+</map>

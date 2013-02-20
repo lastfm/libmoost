@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classmoost_1_1transaction_1_1_base_persisted_t_q.html" title="moost::transaction::BasePersistedTQ\&lt; dataT, serializerT, queueT \&gt;" alt="" coords="15,83,465,111"/>
+<area shape="rect" id="node4" href="$classmoost_1_1transaction_1_1_i_transaction_queue.html" title="moost::transaction::ITransactionQueue\&lt; dataT \&gt;" alt="" coords="73,6,407,34"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1service_1_1skeleton.html#aca111179b49c8d41ebc634a79c48a81d" title="Create the service instance." alt="" coords="313,5,652,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1service_1_1skeleton.html#a679486e56de4adecab5602817cac0773" title="Read&#45;only access to command line options variable map." alt="" coords="779,81,1011,109"/>
+<area shape="rect" id="node7" href="$classmoost_1_1process_1_1service.html#a53e55fe1d64fef06ac01ea5d09f0807f" title="moost::process::service::set_child_init_func" alt="" coords="333,106,632,134"/>
+<area shape="rect" id="node9" href="$classmoost_1_1process_1_1service.html#a72e570be0098381e017bfffa2536efde" title="moost::process::service::set_default_stderr_state" alt="" coords="313,157,652,185"/>
+<area shape="rect" id="node11" href="$classmoost_1_1process_1_1service.html#a0c62563e64faa4d8480a5722422cd859" title="moost::process::service::set_pidfile" alt="" coords="360,207,605,235"/>
+<area shape="rect" id="node13" href="$classmoost_1_1process_1_1service.html#a17a6845fa57c4d33b351d002f17207ec" title="moost::process::service::set_shell_port" alt="" coords="348,258,617,286"/>
+<area shape="rect" id="node15" href="$classmoost_1_1process_1_1service.html#a03253864ede97298e825a7ab789c7dae" title="moost::process::service::run" alt="" coords="381,359,584,387"/>
+<area shape="rect" id="node47" href="$classmoost_1_1service_1_1skeleton.html#a0748b00a8443768467641838d0be8a22" title="Check whether the service is about to be started in daemon mode." alt="" coords="325,309,640,337"/>
+<area shape="rect" id="node17" href="$classmoost_1_1process_1_1service_1_1service__wrapper.html#a7b30a4c3fe575bed9bbc63aba1456e4d" title="moost::process::service::service_wrapper::name" alt="" coords="729,157,1060,185"/>
+<area shape="rect" id="node19" href="$classmoost_1_1process_1_1pidfile.html#a51762a10d0be0a4975b8528943a67d45" title="Get the default run directory." alt="" coords="749,207,1040,235"/>
+<area shape="rect" id="node21" href="$classmoost_1_1process_1_1daemon.html#a445b7b2c2d0e175db285c26a21eb5fdd" title="Is this process the parent." alt="" coords="771,258,1019,286"/>
+<area shape="rect" id="node25" href="$classmoost_1_1process_1_1daemon.html#ad7cd31602681e0f3e39b92dd6e385cb4" title="Get the child process ID." alt="" coords="1527,309,1764,337"/>
+<area shape="rect" id="node30" href="$classmoost_1_1process_1_1quit__handler.html#af4fa31cf8fe6b2bbf99324503cc41bb8" title="moost::process::quit_handler::set" alt="" coords="777,359,1012,387"/>
+<area shape="rect" id="node39" href="$classmoost_1_1process_1_1service_1_1service__wrapper.html#a90e08844ef6a40906ca6f9ee4d0be153" title="moost::process::service::service_wrapper::start" alt="" coords="733,410,1056,438"/>
+<area shape="rect" id="node41" href="$classmoost_1_1process_1_1service_1_1service__wrapper.html#accd767a90bc439b6f3fdb8919a9763f5" title="moost::process::service::service_wrapper::disable_logger" alt="" coords="703,461,1087,489"/>
+<area shape="rect" id="node43" href="$classmoost_1_1process_1_1sleeper.html#a10f797646c6fb5e99dbf8dad0444392c" title="moost::process::sleeper::sleep" alt="" coords="785,511,1004,539"/>
+<area shape="rect" id="node45" href="$classmoost_1_1process_1_1service_1_1service__wrapper.html#a4a82ae3f8afc150ca0951e6f09d5721a" title="moost::process::service::service_wrapper::stop" alt="" coords="735,562,1055,590"/>
+<area shape="rect" id="node23" href="$classmoost_1_1process_1_1daemon.html#a2d1efd9a156de24ca1b15ef5abf27d01" title="Is this process the child?" alt="" coords="1179,258,1413,286"/>
+<area shape="rect" id="node27" href="$classmoost_1_1process_1_1daemon__impl.html#a88682e2fa6c27fc5bc117a442cacdf9f" title="moost::process::daemon_impl::get_pid_" alt="" coords="1868,309,2145,337"/>
+<area shape="rect" id="node32" href="$classmoost_1_1process_1_1quit__handler.html#a829ff17ec3fc3413424f6653606c066d" title="moost::process::quit_handler::get_single_instance" alt="" coords="1836,385,2177,413"/>
+<area shape="rect" id="node34" href="$classmoost_1_1process_1_1quit__handler.html#a5d02be9dc0e08085109a2668fe3b061e" title="moost::process::quit_handler::register_handler" alt="" coords="1136,410,1456,438"/>
+<area shape="rect" id="node36" href="$classmoost_1_1process_1_1quit__handler.html#af04041c3f8d3db09666281e151415274" title="moost::process::quit_handler::sighandler" alt="" coords="1504,410,1787,438"/>
+</map>

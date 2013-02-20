@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$remote__shell_8h.html" title="/home/mhx/git/github/libmoost/include/moost/service/remote_shell.h" alt="" coords="445,83,904,111"/>
+<area shape="rect" id="node5" href="$service_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/process/service.hpp" alt="" coords="7,161,449,189"/>
+<area shape="rect" id="node9" href="$shell_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/shell.hpp" alt="" coords="900,161,1273,189"/>
+<area shape="rect" id="node17" href="$appender_8cpp.html" title="/home/mhx/git/github/libmoost/src/service/appender.cpp" alt="" coords="979,83,1360,111"/>
+<area shape="rect" id="node13" href="$remote__shell_8cpp.html" title="/home/mhx/git/github/libmoost/src/service/remote_shell.cpp" alt="" coords="473,161,876,189"/>
+<area shape="rect" id="node7" href="$service_2skeleton_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/service/skeleton.hpp" alt="" coords="5,238,451,266"/>
+<area shape="rect" id="node11" href="$stomp__test__client_8cpp.html" title="/home/mhx/git/github/libmoost/src/tools/mq/stomp_test_client.cpp" alt="" coords="864,238,1309,266"/>
+</map>

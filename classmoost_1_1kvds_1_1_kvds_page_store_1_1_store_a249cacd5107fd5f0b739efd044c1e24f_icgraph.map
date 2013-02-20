@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1kvds_1_1_kvds_page_store_1_1_store.html#af42ea68e1c5000fb5cc14c4485366794" title="moost::kvds::KvdsPageStore::Store::size" alt="" coords="375,5,655,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1kvds_1_1_kvds_page_store_1_1_store.html#a4de5db4d4372e2744679c85fed4bfc31" title="moost::kvds::KvdsPageStore::Store::read" alt="" coords="373,55,656,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1kvds_1_1_kvds_page_store_1_1_store.html#a992fa26cf427e6fb98385677218f45cb" title="moost::kvds::KvdsPageStore::Store::write" alt="" coords="372,106,657,134"/>
+<area shape="rect" id="node9" href="$classmoost_1_1kvds_1_1_kvds_page_store_1_1_store.html#ab5869f8994e324b6f0477562a2015432" title="moost::kvds::KvdsPageStore::Store::append" alt="" coords="364,157,665,185"/>
+<area shape="rect" id="node11" href="$classmoost_1_1kvds_1_1_kvds_page_store_1_1_store.html#a1b03c8f428250be6fe9839d379a3e185" title="moost::kvds::KvdsPageStore::Store::get_next_free_id" alt="" coords="335,207,695,235"/>
+<area shape="rect" id="node13" href="$classmoost_1_1kvds_1_1_kvds_page_store_1_1_store.html#a03161874ac9547fe98dd370b781a83b0" title="moost::kvds::KvdsPageStore::Store::writeT" alt="" coords="755,283,1045,311"/>
+<area shape="rect" id="node15" href="$classmoost_1_1kvds_1_1_kvds_page_store_1_1_store.html#aaa606e6d96885dcb6e4ee84f001812bc" title="moost::kvds::KvdsPageStore::Store::appendT" alt="" coords="745,346,1055,374"/>
+<area shape="rect" id="node17" href="$classmoost_1_1kvds_1_1_kvds_page_store_1_1_store.html#a264193b52b9c95500ed94c5e11758bdd" title="moost::kvds::KvdsPageStore::Store::pad" alt="" coords="376,309,653,337"/>
+</map>

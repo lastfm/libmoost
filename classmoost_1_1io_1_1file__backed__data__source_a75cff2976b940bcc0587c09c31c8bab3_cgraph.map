@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1io_1_1file__watcher.html#a2e124caa7807f3fc08f4d573a45d31eb" title="Starts the asynchronous monitor thread." alt="" coords="383,55,585,83"/>
+<area shape="rect" id="node13" href="$classmoost_1_1io_1_1file__watcher.html#a8cdfd6eaa3c130c6be55e983636ed075" title="Adds path to the list of monitored paths." alt="" coords="380,106,588,134"/>
+<area shape="rect" id="node16" href="$classmoost_1_1io_1_1file__backed__data__source.html#aae328ad2684a20a317be3c2ce7c998a0" title="moost::io::file_backed_data_source::reload" alt="" coords="337,182,631,210"/>
+<area shape="rect" id="node5" href="$classmoost_1_1io_1_1file__watcher.html#a3f63d9f551f142fdfcfeb78f1400c6cf" title="Entry point for the asynchronous monitor thread." alt="" coords="781,55,976,83"/>
+<area shape="rect" id="node7" href="$structmoost_1_1thread_1_1xtime__util.html#a6c3e968c06bc9ad8138e8b7ba877922f" title="Adds the specified number of milliseconds to a boost::xtime." alt="" coords="1139,5,1381,33"/>
+<area shape="rect" id="node9" href="$structmoost_1_1thread_1_1xtime__util.html#ac02f5f3c0598f7269ab3acb7f1358eef" title="Returns now in boost::xtime." alt="" coords="1152,55,1368,83"/>
+<area shape="rect" id="node11" href="$classmoost_1_1io_1_1file__watcher.html#a5c16ed78e5797e59dff98951e097e2fe" title="we cannot assume that if a file exists, it will exist in the following moment that we check its file ..." alt="" coords="1125,106,1395,134"/>
+<area shape="rect" id="node18" href="$classmoost_1_1io_1_1file__backed__data__source.html#a09da2734eea3809c253f3cea4b3435fd" title="moost::io::file_backed_data_source::loadWithErrorHandling" alt="" coords="681,157,1076,185"/>
+<area shape="rect" id="node20" href="$classmoost_1_1io_1_1file__backed__data__source.html#aa75e900d6669963ee91bde3861ea5192" title="moost::io::file_backed_data_source::size" alt="" coords="739,207,1019,235"/>
+<area shape="rect" id="node24" href="$classmoost_1_1vt__100__terminal__format.html#a34a68caa787ec2bf1290207092c92233" title="moost::vt_100_terminal_format::getOkay" alt="" coords="736,258,1021,286"/>
+<area shape="rect" id="node22" href="$classmoost_1_1safe__shared__ptr.html#ac430a6cdde3cc9464cfaf32cc7375438" title="moost::safe_shared_ptr::get_shared" alt="" coords="1133,157,1387,185"/>
+<area shape="rect" id="node26" href="$classmoost_1_1vt__100__terminal__format.html#aa7e33ca6e0e10aadc28e082b19fa90b0" title="moost::vt_100_terminal_format::bold" alt="" coords="1131,207,1389,235"/>
+<area shape="rect" id="node28" href="$classmoost_1_1vt__100__terminal__format.html#af0fd82d6602d868243c7b9ea39ae9f20" title="moost::vt_100_terminal_format::color" alt="" coords="1129,258,1391,286"/>
+<area shape="rect" id="node30" href="$classmoost_1_1vt__100__terminal__format.html#a5e27d4783876cecbdde1f5401e21a5f5" title="moost::vt_100_terminal_format::reset" alt="" coords="1128,309,1392,337"/>
+</map>

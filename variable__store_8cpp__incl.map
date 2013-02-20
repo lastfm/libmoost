@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node19" href="$variable__store_8hpp.html" title="../../include/moost/io/variable_store.hpp" alt="" coords="836,83,1108,111"/>
+<area shape="rect" id="node36" href="$block__store_8hpp.html" title="block_store.hpp" alt="" coords="897,161,1020,189"/>
+<area shape="rect" id="node48" href="$resource__stack_8hpp.html" title="../container/resource_stack.hpp" alt="" coords="784,238,1005,266"/>
+<area shape="rect" id="node60" href="$xtime__util_8hpp.html" title="../thread/xtime_util.hpp" alt="" coords="376,315,547,343"/>
+<area shape="rect" id="node64" href="$deprecated_8hpp.html" title="Abstraction of compiler support for deprecated attribute." alt="" coords="571,315,829,343"/>
+</map>

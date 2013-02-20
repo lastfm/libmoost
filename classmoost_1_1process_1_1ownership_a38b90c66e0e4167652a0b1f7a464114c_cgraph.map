@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1process_1_1detail_1_1ownership.html#a1b0d814ef456b4795142f563ed4e822b" title="moost::process::detail::ownership::is_superuser" alt="" coords="336,30,661,58"/>
+<area shape="rect" id="node5" href="$classmoost_1_1process_1_1detail_1_1ownership.html#aa94b024e09e066afa98e1a088fcb39d0" title="moost::process::detail::ownership::get_uid" alt="" coords="709,5,1000,33"/>
+<area shape="rect" id="node7" href="$classmoost_1_1process_1_1detail_1_1ownership.html#a2617f3ea65bbd845c099074b52e621e7" title="moost::process::detail::ownership::get_gid" alt="" coords="709,55,1000,83"/>
+</map>

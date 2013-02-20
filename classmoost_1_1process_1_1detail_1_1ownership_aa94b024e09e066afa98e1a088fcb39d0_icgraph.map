@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1process_1_1detail_1_1ownership.html#a1b0d814ef456b4795142f563ed4e822b" title="moost::process::detail::ownership::is_superuser" alt="" coords="344,5,669,33"/>
+<area shape="rect" id="node9" href="$classmoost_1_1process_1_1ownership.html#a211765a79f94175786d8daedf14c9324" title="Get current user id." alt="" coords="383,55,631,83"/>
+<area shape="rect" id="node5" href="$classmoost_1_1process_1_1ownership.html#a38b90c66e0e4167652a0b1f7a464114c" title="Check for superuser privileges." alt="" coords="717,5,1000,33"/>
+<area shape="rect" id="node7" href="$classmoost_1_1service_1_1_uid_gid_process_ownership_policy.html#ad97bde4f216ab4fd84b2c287a31d0087" title="moost::service::UidGidProcessOwnershipPolicy::validate_options" alt="" coords="1048,5,1477,33"/>
+<area shape="rect" id="node11" href="$classmoost_1_1process_1_1ownership.html#ad65e96764819563d4ebb1cf2d01b4181" title="Get current user name." alt="" coords="731,55,987,83"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1io_1_1remote__watcher.html#a3e18c635f35c24ab38a3fb7298dfd815" title="Connects to the given url. Will put the connection in the passed stream." alt="" coords="151,30,404,58"/>
+<area shape="rect" id="node13" href="$classmoost_1_1progress_1_1policy_1_1spinner.html#a01ed3c42c212be3a7e893ec9e0bf9817" title="moost::progress::policy::spinner::animate" alt="" coords="135,81,420,109"/>
+<area shape="rect" id="node17" href="$classmoost_1_1utils_1_1_yes_no.html#ae31ea07e66f17b6b5c2a754411ba6e04" title="moost::utils::YesNo::YesNo" alt="" coords="183,131,372,159"/>
+<area shape="rect" id="node19" href="$file__operations_8cpp.html#a212176b2c89f1a81815a6c37dbd2291c" title="BOOST_FIXTURE_TEST_CASE" alt="" coords="175,182,380,210"/>
+<area shape="rect" id="node5" href="$classmoost_1_1io_1_1remote__watcher.html#a67f271fd10da40b438aed9b5fbb7d7a8" title="we cannot assume that if a file exists, it will exist in the following moment that we check its file ..." alt="" coords="476,30,775,58"/>
+<area shape="rect" id="node7" href="$classmoost_1_1io_1_1remote__watcher.html#a944cd1abab2fafcb8eea0b56be819eef" title="Adds path to the list of monitored paths." alt="" coords="831,5,1068,33"/>
+<area shape="rect" id="node9" href="$classmoost_1_1io_1_1remote__watcher.html#a8b517ce4ecd0e9a44a07a53dfd291cbe" title="Entry point for the asynchronous monitor thread." alt="" coords="839,55,1060,83"/>
+<area shape="rect" id="node11" href="$classmoost_1_1io_1_1remote__watcher.html#a0a01cf242b67af98cbbb87266fc706cc" title="Starts the asynchronous monitor thread." alt="" coords="1117,55,1349,83"/>
+<area shape="rect" id="node15" href="$classmoost_1_1progress_1_1policy_1_1spinner.html#a1f6b986c2cb06c69efc4ab4dbe46f3fd" title="moost::progress::policy::spinner::operator+=" alt="" coords="471,81,780,109"/>
+</map>

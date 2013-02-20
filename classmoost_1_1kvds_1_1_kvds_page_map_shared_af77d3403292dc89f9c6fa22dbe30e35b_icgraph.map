@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1kvds_1_1_kvds_page_map_shared.html#a1f4a29c751764b5a161cee2688d3187c" title="moost::kvds::KvdsPageMapShared::get_storage" alt="" coords="492,5,817,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1kvds_1_1_kvds_page_map_shared.html#a95499ce42ba0b1a743703fe345476f83" title="moost::kvds::KvdsPageMapShared::begin" alt="" coords="512,55,797,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1kvds_1_1_kvds_page_map_shared.html#ae266f0b0e3f14e9213ce54e8a5dad61f" title="moost::kvds::KvdsPageMapShared::end" alt="" coords="517,106,792,134"/>
+<area shape="rect" id="node9" href="$classmoost_1_1kvds_1_1_kvds_page_map_shared.html#a2123e902da7fcdef554f5deddfec23aa" title="moost::kvds::KvdsPageMapShared::find" alt="" coords="868,131,1140,159"/>
+<area shape="rect" id="node13" href="$classmoost_1_1kvds_1_1_kvds_page_map_shared.html#a2703ccddcce7e8a5d34a238b557b1b26" title="moost::kvds::KvdsPageMapShared::resize" alt="" coords="511,207,799,235"/>
+<area shape="rect" id="node16" href="$classmoost_1_1kvds_1_1_kvds_page_map_shared.html#ad309b3eac543881eb5361c4acfc1d007" title="moost::kvds::KvdsPageMapShared::insert" alt="" coords="512,258,797,286"/>
+<area shape="rect" id="node18" href="$classmoost_1_1kvds_1_1_kvds_page_map_shared.html#a5781259e2338610c360395f37db2b4fa" title="moost::kvds::KvdsPageMapShared::load" alt="" coords="516,309,793,337"/>
+<area shape="rect" id="node11" href="$structmoost_1_1kvds_1_1_kvds_page_map_shared_1_1metadata.html#a90dc777bf2fe8e244cd374684b0bfe14" title="moost::kvds::KvdsPageMapShared::metadata::metadata" alt="" coords="1189,131,1573,159"/>
+</map>

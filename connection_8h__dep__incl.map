@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$i__kyoto__tycoon__connection_8h.html" title="/home/mhx/git/github/libmoost/include/moost/kvstore/i_kyoto_tycoon_connection.h" alt="" coords="633,83,1183,111"/>
+<area shape="rect" id="node5" href="$kyoto__tycoon__connection__linux_8h.html" title="/home/mhx/git/github/libmoost/include/moost/kvstore/detail/kyoto_tycoon_connection_linux.h" alt="" coords="5,161,621,189"/>
+<area shape="rect" id="node11" href="$mock__connection_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvstore/mock_connection.hpp" alt="" coords="655,161,1161,189"/>
+<area shape="rect" id="node17" href="$kyoto__tycoon__client_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/kvstore/kyoto_tycoon_client.hpp" alt="" coords="1196,161,1716,189"/>
+<area shape="rect" id="node7" href="$kyoto__tycoon__connection_8h.html" title="/home/mhx/git/github/libmoost/include/moost/kvstore/kyoto_tycoon_connection.h" alt="" coords="27,238,568,266"/>
+<area shape="rect" id="node9" href="$kyoto__tycoon__connection_8cpp.html" title="/home/mhx/git/github/libmoost/src/kvstore/kyoto_tycoon_connection.cpp" alt="" coords="55,315,540,343"/>
+<area shape="rect" id="node13" href="$kyoto__tycoon__connection__win32_8h.html" title="/home/mhx/git/github/libmoost/include/moost/kvstore/detail/kyoto_tycoon_connection_win32.h" alt="" coords="592,238,1213,266"/>
+<area shape="rect" id="node15" href="$kvstore__client__test_8cpp.html" title="/home/mhx/git/github/libmoost/test/kvstore/kvstore_client_test.cpp" alt="" coords="1237,238,1685,266"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1io_1_1file__watcher.html#a3f63d9f551f142fdfcfeb78f1400c6cf" title="Entry point for the asynchronous monitor thread." alt="" coords="256,55,451,83"/>
+<area shape="rect" id="node5" href="$structmoost_1_1thread_1_1xtime__util.html#a6c3e968c06bc9ad8138e8b7ba877922f" title="Adds the specified number of milliseconds to a boost::xtime." alt="" coords="512,5,755,33"/>
+<area shape="rect" id="node7" href="$structmoost_1_1thread_1_1xtime__util.html#ac02f5f3c0598f7269ab3acb7f1358eef" title="Returns now in boost::xtime." alt="" coords="525,55,741,83"/>
+<area shape="rect" id="node9" href="$classmoost_1_1io_1_1file__watcher.html#a5c16ed78e5797e59dff98951e097e2fe" title="we cannot assume that if a file exists, it will exist in the following moment that we check its file ..." alt="" coords="499,106,768,134"/>
+</map>

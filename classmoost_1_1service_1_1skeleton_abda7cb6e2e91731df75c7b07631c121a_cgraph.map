@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1service_1_1skeleton.html#a2c0d37f07fc6aee52caa5908079d526e" title="Return the service name." alt="" coords="337,5,559,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1service_1_1skeleton.html#a17b053f13937ede1af55b9cd81a275e2" title="Return short description of the service." alt="" coords="320,55,576,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1service_1_1skeleton.html#ae4df23f13472b87c52b4d097d8485946" title="Return the service version." alt="" coords="332,106,564,134"/>
+<area shape="rect" id="node9" href="$classmoost_1_1service_1_1skeleton.html#a688c1dd6c5ef7a1f506f8ac274b273dc" title="Return copyright string." alt="" coords="325,157,571,185"/>
+</map>

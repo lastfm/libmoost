@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1service_1_1standard__options.html#a5651a6151bc93055309a28545896ce2c" title="moost::service::standard_options::config" alt="" coords="416,42,696,70"/>
+<area shape="rect" id="node15" href="$classmoost_1_1service_1_1standard__options.html#aa1be52f70f0d3b4a97892cfc23a9547a" title="moost::service::standard_options::port" alt="" coords="421,93,691,121"/>
+<area shape="rect" id="node18" href="$classmoost_1_1service_1_1standard__options.html#a05e7d541b5d1b06cb6fd7dad94df6e34" title="moost::service::standard_options::pool" alt="" coords="421,143,691,171"/>
+<area shape="rect" id="node21" href="$classmoost_1_1service_1_1standard__options.html#a9d102bb6320d71cfdd1c8ec15c676296" title="moost::service::standard_options::verbose" alt="" coords="409,194,703,222"/>
+<area shape="rect" id="node5" href="$classmoost_1_1service_1_1standard__options.html#ac47a75019597539928ddb709f711865f" title="moost::service::standard_options::add_option" alt="" coords="752,131,1067,159"/>
+<area shape="rect" id="node11" href="$classmoost_1_1service_1_1standard__options.html#ad3d66e95b88f4cfa09be3777f634e325" title="moost::service::standard_options::opt_config" alt="" coords="755,5,1064,33"/>
+<area shape="rect" id="node13" href="$namespacemoost_1_1service_1_1validator.html#a6976b1244a77105ee2a70540e9447735" title="moost::service::validator::file" alt="" coords="807,55,1012,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1service_1_1standard__options_1_1option.html#aea819f0f7f8626bd962b8137ef7e87ba" title="moost::service::standard_options::option::spec" alt="" coords="1116,106,1436,134"/>
+<area shape="rect" id="node9" href="$classmoost_1_1service_1_1standard__options_1_1option.html#ae631c8e65d5370d1b54fdf3ea24f8104" title="moost::service::standard_options::option::desc" alt="" coords="1116,157,1436,185"/>
+</map>

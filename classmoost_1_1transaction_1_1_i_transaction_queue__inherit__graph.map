@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1transaction_1_1_base_persisted_t_q.html" title="moost::transaction::BasePersistedTQ\&lt; dataT \&gt;" alt="" coords="391,30,716,58"/>
+<area shape="rect" id="node9" href="$classmoost_1_1transaction_1_1_none_persisted_t_q.html" title="moost::transaction::NonePersistedTQ\&lt; dataT \&gt;" alt="" coords="391,81,716,109"/>
+<area shape="rect" id="node5" href="$classmoost_1_1transaction_1_1_fully_persisted_t_q.html" title="moost::transaction::FullyPersistedTQ\&lt; dataT, serializerT, queueT \&gt;" alt="" coords="777,5,1223,33"/>
+<area shape="rect" id="node7" href="$classmoost_1_1transaction_1_1_partially_persisted_t_q.html" title="moost::transaction::PartiallyPersistedTQ\&lt; dataT, serializerT, queueT \&gt;" alt="" coords="765,55,1235,83"/>
+</map>

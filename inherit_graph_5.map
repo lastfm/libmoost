@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$struct_fixture__generic.html" title="Fixture_generic\&lt; multi_map\&lt; int, boost::int8_t, map\&lt; int, multimap_value_type \&gt; \&gt; \&gt;" alt="" coords="5,5,584,33"/>
+<area shape="rect" id="node3" href="$struct_fixture__map.html" title="Fixture_map" alt="" coords="633,5,732,33"/>
+</map>

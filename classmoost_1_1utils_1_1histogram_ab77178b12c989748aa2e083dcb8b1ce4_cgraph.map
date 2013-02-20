@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1utils_1_1histogram.html#a78050b8cbdea166a5579cfd117aefd9d" title="moost::utils::histogram::optimum_range" alt="" coords="261,5,541,33"/>
+<area shape="rect" id="node9" href="$namespacestd.html#a6309ea7d4a5977b39fecf89747491b6d" title="std::endl" alt="" coords="363,55,440,83"/>
+<area shape="rect" id="node11" href="$classmoost_1_1utils_1_1histogram.html#a0f3194451be3d25342b79700a495820b" title="moost::utils::histogram::add_ticks" alt="" coords="283,106,520,134"/>
+<area shape="rect" id="node14" href="$classmoost_1_1utils_1_1histogram.html#a064dbdec3f80672e7e8201d09e7057a7" title="moost::utils::histogram::get_stats" alt="" coords="283,157,520,185"/>
+<area shape="rect" id="node16" href="$classmoost_1_1utils_1_1histogram.html#a4453468c0388198d72cd677b67a70e9c" title="moost::utils::histogram::stats2str" alt="" coords="284,207,519,235"/>
+<area shape="rect" id="node5" href="$classmoost_1_1utils_1_1histogram.html#a41ffa6fbc166e4511b11dadba39c5acd" title="moost::utils::histogram::nicenum" alt="" coords="609,81,841,109"/>
+<area shape="rect" id="node7" href="$classmoost_1_1utils_1_1histogram.html#ac6c91be6639c0f9d5c4eda245186630c" title="moost::utils::histogram::nice_bin_width" alt="" coords="591,5,860,33"/>
+</map>

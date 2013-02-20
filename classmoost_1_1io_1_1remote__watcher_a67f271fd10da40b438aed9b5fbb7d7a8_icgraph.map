@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1io_1_1remote__watcher.html#a944cd1abab2fafcb8eea0b56be819eef" title="Adds path to the list of monitored paths." alt="" coords="353,5,591,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1io_1_1remote__watcher.html#a8b517ce4ecd0e9a44a07a53dfd291cbe" title="Entry point for the asynchronous monitor thread." alt="" coords="361,55,583,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1io_1_1remote__watcher.html#a0a01cf242b67af98cbbb87266fc706cc" title="Starts the asynchronous monitor thread." alt="" coords="640,55,872,83"/>
+</map>

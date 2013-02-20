@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1kvds_1_1_kvds_page_map_non_intrinsic_key.html#a74c996f185e035b248827a70b8e34caf" title="A generic method to convert an iterator to a key (page store has no idea how to do this)..." alt="" coords="380,5,721,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1kvds_1_1_kvds_page_map_non_intrinsic_key.html#ac5e44acdbfa9e9b0fd54cf45edee03a0" title="moost::kvds::KvdsPageMapNonIntrinsicKey::load" alt="" coords="388,55,713,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1kvds_1_1_kvds_page_map_non_intrinsic_key.html#ac3c88505707fb4fcaf8b05c25674c423" title="moost::kvds::KvdsPageMapNonIntrinsicKey::save" alt="" coords="385,106,716,134"/>
+</map>

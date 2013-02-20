@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node29" href="$terminal__format_8hpp.html" title="../../include/moost/terminal_format.hpp" alt="" coords="1023,83,1293,111"/>
+<area shape="rect" id="node37" href="$foreach_8hpp.html" title="../../include/moost/utils/foreach.hpp" alt="" coords="178,83,423,111"/>
+<area shape="rect" id="node40" href="$helper_8hpp.html" title="../../include/moost/io/helper.hpp" alt="" coords="2149,161,2370,189"/>
+<area shape="rect" id="node43" href="$async__stream__forwarder_8hpp.html" title="../../include/moost/io/async_stream_forwarder.hpp" alt="" coords="2175,83,2514,111"/>
+<area shape="rect" id="node50" href="$remote__shell_8h.html" title="../../include/moost/service/remote_shell.h" alt="" coords="2613,83,2895,111"/>
+<area shape="rect" id="node65" href="$posix__stream__stealer_8h.html" title="../../include/moost/service/posix_stream_stealer.h" alt="" coords="1714,83,2050,111"/>
+<area shape="rect" id="node59" href="$appender_8h.html" title="appender.h" alt="" coords="2893,161,2986,189"/>
+<area shape="rect" id="node68" href="$dummy__stream__stealer_8h.html" title="detail/dummy_stream_stealer.h" alt="" coords="1746,161,1970,189"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$logging_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/logging.hpp" alt="" coords="829,83,1219,111"/>
+<area shape="rect" id="node21" href="$nsca__appender_8cpp.html" title="/home/mhx/git/github/libmoost/src/logging/nsca_appender.cpp" alt="" coords="1243,83,1661,111"/>
+<area shape="rect" id="node5" href="$scoped__logger_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/logging/scoped_logger.hpp" alt="" coords="20,161,505,189"/>
+<area shape="rect" id="node11" href="$service_2skeleton_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/service/skeleton.hpp" alt="" coords="529,161,975,189"/>
+<area shape="rect" id="node13" href="$safe__thread__default__policy_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/thread/detail/safe_thread_default_policy.hpp" alt="" coords="999,161,1596,189"/>
+<area shape="rect" id="node19" href="$stomp__client__impl_8cpp.html" title="/home/mhx/git/github/libmoost/src/mq/stomp_client_impl.cpp" alt="" coords="1620,161,2033,189"/>
+<area shape="rect" id="node7" href="$global__scoped__logger_8h.html" title="/home/mhx/git/github/libmoost/include/moost/logging/global_scoped_logger.h" alt="" coords="5,238,520,266"/>
+<area shape="rect" id="node9" href="$global__scoped__logger_8cpp.html" title="/home/mhx/git/github/libmoost/src/logging/global_scoped_logger.cpp" alt="" coords="33,315,492,343"/>
+<area shape="rect" id="node15" href="$safe__thread_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/thread/safe_thread.hpp" alt="" coords="808,238,1275,266"/>
+<area shape="rect" id="node17" href="$safe__thread__group_8hpp.html" title="/home/mhx/git/github/libmoost/include/moost/thread/safe_thread_group.hpp" alt="" coords="1299,238,1808,266"/>
+</map>

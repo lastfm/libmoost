@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1process_1_1ownership.html#a2e7bfb84c95dff4171d3a27c1e9c5155" title="Lookup group id by group name." alt="" coords="401,5,671,33"/>
+<area shape="rect" id="node9" href="$classmoost_1_1process_1_1ownership.html#a6f81e9850539a4ac520fc8140780c7a4" title="Set new effective group id." alt="" coords="383,55,689,83"/>
+<area shape="rect" id="node5" href="$classmoost_1_1process_1_1detail_1_1ownership.html#a2d3bfe9c0bb3f9696b603b419a9cc8d0" title="moost::process::detail::ownership::lookup_gid" alt="" coords="759,5,1071,33"/>
+<area shape="rect" id="node7" href="$classmoost_1_1process_1_1detail_1_1ownership.html#adc36466cf357b064e644360020c37267" title="moost::process::detail::ownership::lookup_group" alt="" coords="1139,5,1469,33"/>
+<area shape="rect" id="node11" href="$classmoost_1_1process_1_1detail_1_1ownership.html#ab2f54e486364e2ceb4c8c96fe9e96996" title="moost::process::detail::ownership::set_effective_gid" alt="" coords="740,55,1089,83"/>
+</map>

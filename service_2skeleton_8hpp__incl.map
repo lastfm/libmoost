@@ -1,0 +1,27 @@
+<map id="G" name="G">
+<area shape="rect" id="node19" href="$logging_8hpp.html" title="../logging.hpp" alt="" coords="711,83,817,111"/>
+<area shape="rect" id="node81" href="$service_8hpp.html" title="../process/service.hpp" alt="" coords="2509,83,2669,111"/>
+<area shape="rect" id="node136" href="$ownership_8hpp.html" title="../process/ownership.hpp" alt="" coords="351,83,529,111"/>
+<area shape="rect" id="node141" href="$standard__options_8hpp.html" title="standard_options.hpp" alt="" coords="3469,83,3629,111"/>
+<area shape="rect" id="node155" href="$assert_8hpp.html" title="../utils/assert.hpp" alt="" coords="3489,238,3620,266"/>
+<area shape="rect" id="node21" href="$logger_8hpp.html" title="logging/logger.hpp" alt="" coords="452,238,591,266"/>
+<area shape="rect" id="node29" href="$logging_2global_8hpp.html" title="global.hpp" alt="" coords="436,315,524,343"/>
+<area shape="rect" id="node49" href="$function__logger_8hpp.html" title="logging/function_logger.hpp" alt="" coords="559,161,756,189"/>
+<area shape="rect" id="node58" href="$class__logger_8hpp.html" title="logging/class_logger.hpp" alt="" coords="780,161,959,189"/>
+<area shape="rect" id="node65" href="$nsca__appender_8hpp.html" title="logging/nsca_appender.hpp" alt="" coords="1217,161,1415,189"/>
+<area shape="rect" id="node40" href="$singleton_8hpp.html" title="../utils/singleton.hpp" alt="" coords="427,393,576,421"/>
+<area shape="rect" id="node42" href="$pseudo__ostream_8hpp.html" title="A pseudo ostream for getting logging status/debug." alt="" coords="5,393,163,421"/>
+<area shape="rect" id="node46" href="$attributes_8hpp.html" title="Convenience header for compiler attribute support." alt="" coords="600,393,781,421"/>
+<area shape="rect" id="node55" href="$demangler_8hpp.html" title="../utils/demangler.hpp" alt="" coords="716,238,876,266"/>
+<area shape="rect" id="node73" href="$nsca__config_8hpp.html" title="../nagios/detail/nsca_config.hpp" alt="" coords="1823,238,2044,266"/>
+<area shape="rect" id="node93" href="$daemon_8hpp.html" title="daemon.hpp" alt="" coords="2583,161,2684,189"/>
+<area shape="rect" id="node102" href="$sleeper_8hpp.html" title="sleeper.hpp" alt="" coords="3052,161,3148,189"/>
+<area shape="rect" id="node108" href="$pidfile_8hpp.html" title="pidfile.hpp" alt="" coords="2119,238,2204,266"/>
+<area shape="rect" id="node112" href="$quit__handler_8hpp.html" title="quit_handler.hpp" alt="" coords="2380,161,2508,189"/>
+<area shape="rect" id="node116" href="$standard__console_8hpp.html" title="../logging/standard_console.hpp" alt="" coords="1473,238,1697,266"/>
+<area shape="rect" id="node124" href="$remote__shell_8h.html" title="../service/remote_shell.h" alt="" coords="2827,161,3005,189"/>
+<area shape="rect" id="node131" href="$appender_8h.html" title="appender.h" alt="" coords="2735,238,2828,266"/>
+<area shape="rect" id="node97" href="$daemon__linux_8hpp.html" title="detail/daemon_linux.hpp" alt="" coords="2279,238,2457,266"/>
+<area shape="rect" id="node138" href="$ownership__posix_8hpp.html" title="detail/ownership_posix.hpp" alt="" coords="237,161,429,189"/>
+<area shape="rect" id="node148" href="$option__validator_8hpp.html" title="option_validator.hpp" alt="" coords="3497,161,3647,189"/>
+</map>

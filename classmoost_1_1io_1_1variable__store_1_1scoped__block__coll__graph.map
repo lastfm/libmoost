@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classmoost_1_1io_1_1block__store_1_1scoped__block.html" title="moost::io::block_store::scoped_block" alt="" coords="15,193,271,221"/>
+<area shape="rect" id="node4" href="$classmoost_1_1container_1_1resource__stack.html" title="moost::container::resource_stack\&lt; std::fstream \&gt;" alt="" coords="5,6,349,34"/>
+<area shape="rect" id="node6" href="$classmoost_1_1io_1_1block__store.html" title="block_store provides block&#45;level storage by presenting a thread&#45;safe pool of streams, for allocing, reading/writing, freeing" alt="" coords="221,99,384,127"/>
+</map>

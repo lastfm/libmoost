@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classmoost_1_1process_1_1service.html" title="moost::process::service\&lt; ServiceT, ConsoleLoggerPolicy \&gt;" alt="" coords="789,35,1187,63"/>
+<area shape="rect" id="node4" href="$classboost_1_1noncopyable.html" title="noncopyable" alt="" coords="7,35,108,63"/>
+<area shape="rect" id="node6" href="$classmoost_1_1process_1_1sleeper.html" title="moost::process::sleeper" alt="" coords="327,35,503,63"/>
+<area shape="rect" id="node9" href="$classmoost_1_1process_1_1service_1_1service__wrapper.html" title="moost::process::service\&lt; ServiceT, ConsoleLoggerPolicy \&gt;::service_wrapper" alt="" coords="161,86,668,114"/>
+</map>

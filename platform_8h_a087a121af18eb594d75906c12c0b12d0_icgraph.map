@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1container_1_1memory__mapped__dataset.html#ae4021efacf165b6f57b01352894de873" title="moost::container::memory_mapped_dataset::data" alt="" coords="264,30,611,58"/>
+<area shape="rect" id="node9" href="$classmoost_1_1container_1_1mmd__section__writer__base.html#a36f1ac40be3b1e8aff2c8648f43a03eb" title="moost::container::mmd_section_writer_base::write" alt="" coords="265,131,609,159"/>
+<area shape="rect" id="node5" href="$classmoost_1_1container_1_1mmd__generic__archive.html#ac89384acaef06263dcfccd7238571de5" title="moost::container::mmd_generic_archive::archive_data" alt="" coords="684,5,1055,33"/>
+<area shape="rect" id="node7" href="$classmoost_1_1container_1_1mmd__generic__archive.html#a0ac5dc14963d5490cfd8d5931a65acf0" title="moost::container::mmd_generic_archive::set" alt="" coords="1149,5,1456,33"/>
+<area shape="rect" id="node11" href="$classmoost_1_1container_1_1mmd__dense__hash__map_1_1writer.html#add43642b45e0510eec4c16047445638b" title="moost::container::mmd_dense_hash_map::writer::pre_commit" alt="" coords="659,55,1080,83"/>
+<area shape="rect" id="node13" href="$classmoost_1_1container_1_1mmd__generic__archive_1_1writer.html#a9186a320edfd46b444bd8455c4362bce" title="moost::container::mmd_generic_archive::writer::pre_commit" alt="" coords="665,106,1073,134"/>
+<area shape="rect" id="node15" href="$classmoost_1_1container_1_1mmd__hash__multimap_1_1writer.html#a017b3d1a6da031b0331c4a3014e25764" title="moost::container::mmd_hash_multimap::writer::pre_commit" alt="" coords="667,157,1072,185"/>
+<area shape="rect" id="node17" href="$classmoost_1_1container_1_1mmd__section__writer__base.html#aecace491fba55309e55e05af5bd3be07" title="moost::container::mmd_section_writer_base::write" alt="" coords="697,207,1041,235"/>
+<area shape="rect" id="node19" href="$classmoost_1_1container_1_1mmd__vector_1_1writer.html#a0ffdcec80ebf28af04bd3c4dcfe03377" title="moost::container::mmd_vector::writer::push_back" alt="" coords="700,258,1039,286"/>
+<area shape="rect" id="node21" href="$classmoost_1_1container_1_1mmd__vector_1_1writer.html#a5fc0a8116c7736a3d6118cdf949e477e" title="moost::container::mmd_vector::writer::operator\&lt;\&lt;" alt="" coords="1129,258,1476,286"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classmoost_1_1container_1_1multi__map.html" title="moost::container::multi_map\&lt; int, std::pair\&lt; int, float \&gt;, TLocMap \&gt;" alt="" coords="763,30,1221,58"/>
+<area shape="rect" id="node6" href="$structmoost_1_1container_1_1policies_1_1map__policy__selector.html" title="moost::container::policies::map_policy_selector\&lt; int, multimap_value_type, TLocMap \&gt;" alt="" coords="5,55,584,83"/>
+</map>

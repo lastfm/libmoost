@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct_fixture__generic.html" title="Fixture_generic\&lt; simple_multi_map\&lt; int, std::pair\&lt; int, float \&gt;, vector\&lt; multimap_value_type \&gt; \&gt; \&gt;" alt="" coords="7,5,673,33"/>
+<area shape="rect" id="node4" href="$struct_fixture__generic.html" title="Fixture_generic\&lt; neigh_multi_map\&lt; vector\&lt; multimap_value_type \&gt; \&gt; \&gt;" alt="" coords="93,55,587,83"/>
+<area shape="rect" id="node6" href="$struct_fixture__generic.html" title="Fixture_generic\&lt; multi_map\&lt; int, boost::int8_t, vector\&lt; multimap_value_type \&gt; \&gt; \&gt;" alt="" coords="57,106,623,134"/>
+</map>

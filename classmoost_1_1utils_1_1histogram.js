@@ -1,0 +1,27 @@
+var classmoost_1_1utils_1_1histogram =
+[
+    [ "float_type", "classmoost_1_1utils_1_1histogram.html#a7211089422f6dce850ebd12d06f67247", null ],
+    [ "histogram", "classmoost_1_1utils_1_1histogram.html#ab9887d358f8fcc29bd7b440da56fd2ca", null ],
+    [ "add", "classmoost_1_1utils_1_1histogram.html#a4abce0fcb33b72729d8131f5b632f652", null ],
+    [ "add_ticks", "classmoost_1_1utils_1_1histogram.html#a0f3194451be3d25342b79700a495820b", null ],
+    [ "draw", "classmoost_1_1utils_1_1histogram.html#ab77178b12c989748aa2e083dcb8b1ce4", null ],
+    [ "get_stats", "classmoost_1_1utils_1_1histogram.html#a064dbdec3f80672e7e8201d09e7057a7", null ],
+    [ "get_stats", "classmoost_1_1utils_1_1histogram.html#afd33c550e33c2af16ef0307e871e48cb", null ],
+    [ "get_stats", "classmoost_1_1utils_1_1histogram.html#ad7407781f4c417007f32d54f65a9a264", null ],
+    [ "invalid_value", "classmoost_1_1utils_1_1histogram.html#a31905a3d0e0a7989b4d68debf74c098b", null ],
+    [ "mean", "classmoost_1_1utils_1_1histogram.html#aff749470d95831eb0a91d5f5387db168", null ],
+    [ "nice_bin_width", "classmoost_1_1utils_1_1histogram.html#ac6c91be6639c0f9d5c4eda245186630c", null ],
+    [ "nicenum", "classmoost_1_1utils_1_1histogram.html#a41ffa6fbc166e4511b11dadba39c5acd", null ],
+    [ "optimum_range", "classmoost_1_1utils_1_1histogram.html#a78050b8cbdea166a5579cfd117aefd9d", null ],
+    [ "set_display_range", "classmoost_1_1utils_1_1histogram.html#ad8eb34fe9d2824216fe90d36a2528a68", null ],
+    [ "set_precision", "classmoost_1_1utils_1_1histogram.html#a2a01b3b2f189332f52c993c447022815", null ],
+    [ "stats2str", "classmoost_1_1utils_1_1histogram.html#a4453468c0388198d72cd677b67a70e9c", null ],
+    [ "m_bins", "classmoost_1_1utils_1_1histogram.html#a348eb84a2af212bfe0cd7e5d53494344", null ],
+    [ "m_count", "classmoost_1_1utils_1_1histogram.html#afc3a393b3c51094f578da0b3abfa31de", null ],
+    [ "m_data", "classmoost_1_1utils_1_1histogram.html#a3c2856ad950b57444a58c1bcaf744e67", null ],
+    [ "m_height", "classmoost_1_1utils_1_1histogram.html#a98f751ef1ef8d63eaec6e516639f03b5", null ],
+    [ "m_hi_cutoff", "classmoost_1_1utils_1_1histogram.html#ab1ec31081fbf6ef1cfec85e360127f62", null ],
+    [ "m_lo_cutoff", "classmoost_1_1utils_1_1histogram.html#a9fe6d9aed48fb88be7caf8b76b5e8db3", null ],
+    [ "m_prec", "classmoost_1_1utils_1_1histogram.html#aa121087ec48349e331bafb49623d070f", null ],
+    [ "m_unit", "classmoost_1_1utils_1_1histogram.html#ac9116a6f1d212f8a62da4dae333fe48e", null ]
+];

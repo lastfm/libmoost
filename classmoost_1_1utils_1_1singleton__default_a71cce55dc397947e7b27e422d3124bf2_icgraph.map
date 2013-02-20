@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$namespacemoost_1_1logging.html#a89066bed5f40f736e8b6aa7d325886c9" title="Ensure logging is initialised and disabled." alt="" coords="379,5,589,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1murcl_1_1easy.html#acedb5e4651e5c2948161f962f9808176" title="Go make me an easy API object; simples!" alt="" coords="393,55,575,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1service_1_1_moost_logging_policy.html#a9c1763129ce5ead3f106bfcab2c817cc" title="moost::service::MoostLoggingPolicy::initialise" alt="" coords="331,106,637,134"/>
+<area shape="rect" id="node9" href="$classstomp__test__client.html#ac87b394909889c7b16bde79d0f31e6f6" title="stomp_test_client::process" alt="" coords="387,157,581,185"/>
+<area shape="rect" id="node11" href="$classstomp__test__client.html#ac929363f7bb89999e6262ab086612ed9" title="stomp_test_client::run" alt="" coords="685,157,851,185"/>
+<area shape="rect" id="node13" href="$stomp__test__client_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="900,157,953,185"/>
+</map>

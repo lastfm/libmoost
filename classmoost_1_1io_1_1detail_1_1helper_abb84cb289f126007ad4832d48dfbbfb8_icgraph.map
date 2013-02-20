@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1io_1_1async__stream__forwarder.html#a8acd33c4671675936835188c4214bb2f" title="moost::io::async_stream_forwarder::assign" alt="" coords="1005,5,1301,33"/>
+<area shape="rect" id="node7" href="$classmoost_1_1io_1_1detail_1_1forwarding__loop.html#a0dce08a3ec7968dad3cb8d55a1f91911" title="moost::io::detail::forwarding_loop::run" alt="" coords="311,30,572,58"/>
+<area shape="rect" id="node5" href="$classmoost_1_1io_1_1async__stream__forwarder.html#a88ed9294c700e7ccc91fef2b928dac53" title="moost::io::async_stream_forwarder::async_stream_forwarder" alt="" coords="1351,5,1761,33"/>
+<area shape="rect" id="node9" href="$classmoost_1_1io_1_1async__stream__forwarder.html#ababb60eebf3c039b84097bbe1d7f1134" title="moost::io::async_stream_forwarder::input_thread" alt="" coords="621,30,957,58"/>
+</map>

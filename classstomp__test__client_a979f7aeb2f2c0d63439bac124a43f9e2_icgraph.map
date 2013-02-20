@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classstomp__test__client.html#ab137f3b3e136717221b725da4b33700b" title="stomp_test_client::disconnect" alt="" coords="312,5,525,33"/>
+<area shape="rect" id="node7" href="$classstomp__test__client.html#adbefc5b3ee29ce72333b0d6b3a7976a8" title="stomp_test_client::reset" alt="" coords="331,55,507,83"/>
+<area shape="rect" id="node5" href="$classstomp__test__client.html#ab320312516f626e40a84ea933b9efcc8" title="stomp_test_client::handle_command" alt="" coords="573,30,832,58"/>
+</map>

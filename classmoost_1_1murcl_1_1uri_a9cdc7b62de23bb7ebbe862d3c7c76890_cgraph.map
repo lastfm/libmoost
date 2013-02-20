@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1murcl_1_1uri__elements.html#a8707454ae9e0f4d8e83bccbbdc291d42" title="Get the scheme associated with this uri." alt="" coords="208,5,493,33"/>
+<area shape="rect" id="node5" href="$classmoost_1_1murcl_1_1uri__elements.html#ab5de8bca91399f0c940acc6f618e37e8" title="Get the host associated with this uri." alt="" coords="220,55,481,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1murcl_1_1uri__elements.html#ada9005a18cd629df21ffa87bbcf6d5c7" title="Get the port associated with this uri." alt="" coords="221,106,480,134"/>
+<area shape="rect" id="node9" href="$classmoost_1_1murcl_1_1uri__elements.html#a95427055a2d7c79a15e87d4c7bf034be" title="Get the path associated with this uri." alt="" coords="220,157,481,185"/>
+<area shape="rect" id="node11" href="$classmoost_1_1murcl_1_1uri__elements.html#a7986ff5ef56fc10867efe45225410bc9" title="Get the params associated with this uri." alt="" coords="209,207,492,235"/>
+</map>

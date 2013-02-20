@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1process_1_1detail_1_1ownership.html#a3771d03b39970273a21d106bcec664ea" title="moost::process::detail::ownership::lookup_uid" alt="" coords="376,55,688,83"/>
+<area shape="rect" id="node15" href="$classmoost_1_1process_1_1detail_1_1ownership.html#aa8f932ba22533fe6ef3f56d6c970b0c0" title="moost::process::detail::ownership::lookup_gid" alt="" coords="376,106,688,134"/>
+<area shape="rect" id="node17" href="$classmoost_1_1process_1_1ownership.html#a89a69bdcc9fafec47f9ff0c28c56e815" title="Lookup user name by user id." alt="" coords="393,157,671,185"/>
+<area shape="rect" id="node5" href="$classmoost_1_1process_1_1ownership.html#a508aea627293a20b3e614fe5e10052c9" title="Lookup user id by user name." alt="" coords="761,55,1031,83"/>
+<area shape="rect" id="node7" href="$classmoost_1_1process_1_1ownership.html#ac94395f3ec25d4a9f296c48fef93fca4" title="Set new user id by user name." alt="" coords="1135,5,1391,33"/>
+<area shape="rect" id="node9" href="$classmoost_1_1process_1_1ownership.html#acce3f7f649a285268eabfca906dd687f" title="Set new effective user id by user name." alt="" coords="1104,55,1421,83"/>
+<area shape="rect" id="node11" href="$classmoost_1_1process_1_1ownership.html#aaebe97c015a2ab734017b4022dd0b879" title="Drop process ownership privileges." alt="" coords="1115,106,1411,134"/>
+<area shape="rect" id="node13" href="$classmoost_1_1service_1_1_uid_gid_process_ownership_policy.html#a092408adc5299300432183359a09d2dc" title="moost::service::UidGidProcessOwnershipPolicy::change_ownership" alt="" coords="1469,106,1912,134"/>
+<area shape="rect" id="node19" href="$classmoost_1_1process_1_1ownership.html#ad65e96764819563d4ebb1cf2d01b4181" title="Get current user name." alt="" coords="768,131,1024,159"/>
+<area shape="rect" id="node21" href="$classmoost_1_1process_1_1ownership.html#ae145b99ca1d56edde8e2f42c9358cb86" title="Get current effective user name." alt="" coords="737,182,1055,210"/>
+</map>

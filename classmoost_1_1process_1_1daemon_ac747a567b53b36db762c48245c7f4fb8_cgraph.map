@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classmoost_1_1process_1_1daemon.html#a131f55f917220c8d2655de50966bf0ac" title="moost::process::daemon::init" alt="" coords="297,30,505,58"/>
+<area shape="rect" id="node5" href="$classmoost_1_1process_1_1daemon__impl.html#a620ed5b891a682fea10fb5f0804f8616" title="A generic daemoniser for Linux. See http://www.netzmafia.de/skripten/unix/linux&#45;daemon&#45;howto.html." alt="" coords="556,5,809,33"/>
+<area shape="rect" id="node7" href="$classmoost_1_1process_1_1daemon.html#a445b7b2c2d0e175db285c26a21eb5fdd" title="Is this process the parent." alt="" coords="559,55,807,83"/>
+<area shape="rect" id="node9" href="$classmoost_1_1process_1_1daemon.html#a2d1efd9a156de24ca1b15ef5abf27d01" title="Is this process the child?" alt="" coords="860,55,1095,83"/>
+<area shape="rect" id="node11" href="$classmoost_1_1process_1_1daemon.html#ad7cd31602681e0f3e39b92dd6e385cb4" title="Get the child process ID." alt="" coords="1144,55,1381,83"/>
+<area shape="rect" id="node13" href="$classmoost_1_1process_1_1daemon__impl.html#a88682e2fa6c27fc5bc117a442cacdf9f" title="moost::process::daemon_impl::get_pid_" alt="" coords="1431,55,1708,83"/>
+</map>
