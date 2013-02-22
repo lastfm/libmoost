@@ -1,0 +1,11 @@
+# Ignore moost version file
+/include/moost/version.h
+
+# Ignore generated binary libraries
+/lib/
+
+# Ignore test binaries
+/test/*/*_test
+
+# Ignore doxygen generated docs
+/doc/html/
